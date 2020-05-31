@@ -63,6 +63,9 @@ http://xemtivi@khongcopylink:khongcopylink@tvheadendvn.duckdns.org:9981/stream/c
 #EXTINF:-1 tvg-id="sctv_phim_tong_hop_hd" group-title="SCTV" tvg-logo="https://tvonline.vn/wp-content/uploads/2018/07/large_sctvHD-Phimtonghop.png", SCTV HD Phim Tổng Hợp
 https://vtsstr1.tv24.vn/live/_definst_/smil:SCTVHDPhimTH.smil/chunklist_b2692000.m3u8
 
+#EXTINF:0 tvg-id="K+PC-HD" group-title="K+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/K%2BPC.png",K+PC HD (ĐÃ MỞ)
+http://1.53.178.109:6606/udp/225.1.1.1:30120
+
 #EXTINF:97 tvg-id="MyTV_VTVCab1 - Giải trí TV" tvg-name="VTVCab 1 - Giai Tri" tvg-logo="https://imgur.com/9TBBQNL.png" group-title="VTV Cáp",VTVCab1 - Giải trí TV
 http://6688.link/YYeBl3OfTgOJc26JxjlNY6G87u0wep/1/VTVcab1-Giai-Tri-TV.m3u8?user=taytran&pass=000
 #EXTINF:98 tvg-id="MyTV_VTVCab2 - Phim Việt" tvg-name="VTVCab 2 - Phim Viet" tvg-logo="https://imgur.com/MSs1rGc.png" group-title="VTV Cáp",VTVCab2 - Phim Việt
@@ -70,7 +73,7 @@ http://6688.link/YYeBl3OfTgOJc26JxjlNY6G87u0wep/1/VTVcab2-Phim-Viet.m3u8?user=ta
 #EXTINF:37 tvg-id="MyTV_VTVCab3 - Thể thao TV HD" tvg-name="VTVCab 3 - The Thao TV HD" tvg-logo="https://imgur.com/QfDeJpD.png" group-title="VTV Cáp",VTVCab3 - Thể thao TV HD
 http://6688.link/YYeBl3OfTgOJc26JxjlNY6G87u0wep/1/VTVcab3-HD-The-Thao-TV.m3u8?user=taytran&pass=000
 #EXTINF:99 tvg-id="MyTV_VTVCab4 - Văn hóa" tvg-name="VTVCab 4 - Van Hoa" tvg-logo="https://imgur.com/q2D3u2L.png" group-title="VTV Cáp",VTVCab4 - Văn hóa
-http://6688.link/YYeBl3OfTgOJc26JxjlNY6G87u0wep/1/VTVcab4-Van-Hoa-TV-(HD).m3u8?user=taytran&pass=000
+https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab4_HD.smil/chunklist_b2692000.m3u8
 #EXTINF:100 tvg-id="MyTV_VTVCab5 - E Channel" tvg-name="VTVCab 5 - E Channel" tvg-logo="https://imgur.com/FoGuNrA.png" group-title="VTV Cáp",VTVCab5 - E Channel
 http://6688.link/YYeBl3OfTgOJc26JxjlNY6G87u0wep/1/VTVcab5-E.m3u8?user=taytran&pass=000
 #EXTINF:101 tvg-id="MyTV_VTVCab6 - Hay TV" tvg-name="VTVCab 6 - Hay TV" tvg-logo="https://imgur.com/RHEqrMK.png" group-title="VTV Cáp",VTVCab6 - Hay TV
@@ -134,7 +137,7 @@ http://1.53.178.109:6606/udp/225.1.2.190:30120
 #EXTINF:10 tvg-id="MyTV_HTV1" tvg-name="HTV1" tvg-logo="https://imgur.com/gftnwdV.png" group-title="HTV",HTV1
 http://1.53.178.109:6606/udp/225.1.1.180:30120
 #EXTINF:93 tvg-id="MyTV_HTV2 HD" tvg-name="HTV2 HD" tvg-logo="https://imgur.com/O6jgDUM.png" group-title="HTV",HTV2 HD
-http://1.53.178.109:6606/udp/225.1.1.184:30120
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV2-HD-1080p/playlist.m3u8
 #EXTINF:87 tvg-id="MyTV_HTV3" tvg-name="HTV3" tvg-logo="https://imgur.com/gjZnjmF.png" group-title="HTV",HTV3
 http://1.53.178.109:6606/udp/225.1.1.178:30120
 #EXTINF:14 tvg-id="MyTV_HTV4" tvg-name="HTV4" tvg-logo="https://imgur.com/yfQlyez.png" group-title="HTV",HTV4
@@ -167,8 +170,6 @@ http://1.53.178.109:6606/udp/225.1.1.222:30120
 
 #EXTINF:-1 group-title="Other",HanoiCab2 YouTV
 http://1.53.178.109:6606/udp/225.1.1.207:30120
-#EXTINF:-1 group-title="Other",HanoiCab4 MOV
-http://1.53.178.109:6606/udp/225.1.1.206:30120
 #EXTINF:-1 tvg-name="MTV" group-title="Other",MTV
 http://1.53.178.109:6606/udp/225.1.1.245:30120
 #EXTINF:-1 group-title="Other",Vietnamnet
