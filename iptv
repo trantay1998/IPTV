@@ -1,22 +1,22 @@
 #EXTM3U
 #EXTINF:120 tvg-id="MyTV_VTV1 HD" tvg-name="VTV1 HD" tvg-logo="https://mytv.com.vn/upload/channel/1.png" group-title="VTV",VTV1
-http://1.53.178.109:6606/udp/225.1.2.249:30120
+https://livecdn.fptplay.net/hda/vtv1hd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:2 tvg-id="MyTV_VTV2 HD" tvg-name="VTV2" tvg-logo="https://imgur.com/EUD7roS.png" group-title="VTV",VTV2
-http://1.53.178.109:6606/udp/225.1.4.2:30120
+https://livecdn.fptplay.net/hda/vtv2_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:123 tvg-id="MyTV_VTV3 HD" tvg-name="VTV3_HD" tvg-logo="https://imgur.com/GkxqoUF.png" group-title="VTV",VTV3
-http://1.53.178.109:6606/udp/225.1.4.3:30120
+https://livecdn.fptplay.net/hda/vtv3hd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:4 tvg-id="MyTV_VTV4 HD" tvg-name="VTV4" tvg-logo="https://imgur.com/m4BK6rk.png" group-title="VTV",VTV4
-http://14.169.24.56:8889/rtp/232.84.2.32:10600
+https://livecdn.fptplay.net/hda/vtv4_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:5 tvg-id="MyTV_VTV5 HD " tvg-name="VTV5" tvg-logo="https://imgur.com/W58VIpc.png" group-title="VTV",VTV5
-http://1.53.178.109:6606/udp/225.1.1.131:30120
+https://livecdn.fptplay.net/hda/vtv5hd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:124 tvg-id="MyTV_VTV6 HD" tvg-name="VTV6 HD" tvg-logo="https://imgur.com/btozinY.png" group-title="VTV",VTV6
-http://1.53.178.109:6606/udp/225.1.4.6:30120
+https://livecdn.fptplay.net/hda/vtv6hd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-name="VTV7-VTV" group-title="VTV" tvg-logo="https://i.imgur.com/qW0MBMH.png",VTV7 HD
-http://1.53.178.109:6606/udp/225.1.2.96:30120
+https://livecdn.fptplay.net/hda/vtv7hd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:124 tvg-id="MyTV_VTV8 HD" tvg-name="VTV8 HD" tvg-logo="https://iptv.live/images/logo/channel/crops/790ad4495a338a22c5bdc5ba95d299ee.png" group-title="VTV",VTV8
-http://14.169.24.56:8889/rtp/232.84.2.34:10612
+https://subs-livecdn.fptplay.net/hda/vtv8hd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-name="VTV9-VTV" group-title="VTV" tvg-logo="https://i.imgur.com/9mL8Ve0.png",VTV9 HD
-http://1.53.178.109:6606/udp/225.1.1.128:30120
+https://livecdn.fptplay.net/hda/vtv9_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="sctv1" group-title="SCTV" tvg-logo="https://lh3.googleusercontent.com/-N7N00xEzwdk/WseTQ4JIZAI/AAAAAAAAD54/3CBRPE78BnARomYiVfxbMN2cMgR8G4o5gCLcBGAs/h1200/s1.png", SCTV1 HD - Hài
 https://vtsstr1.tv24.vn/live/_definst_/smil:SCTV_HD_Hai.smil/chunklist_b2692000.m3u8
@@ -159,117 +159,81 @@ http://1.53.178.109:6606/udp/225.1.1.186:30120
 #EXTINF:74 tvg-id="MyTV_HTVC - Thuần Việt HD" tvg-name="HTVC - Thuan Viet HD" tvg-logo="https://imgur.com/M4rF27R.png" group-title="HTV Cáp",HTVC - Thuần Việt HD
 http://6688.link/YYeBl3OfTgOJc26JxjlNY6G87u0wep/1/HTV-Thuan-Viet-HD.m3u8?user=taytran&pass=000
 
-#EXTINF:-1 tvg-name="AN VIEN HD" group-title="VivaTV",BTV9 An Viên HD (HD 8Mbps)
-http://1.53.178.109:6606/udp/225.1.2.189:30120
-#EXTINF:-1 group-title="VivaTV",AN NINH THẾ GIỚI
-http://1.53.178.109:6606/udp/225.1.1.208:30120
-#EXTINF:-1 group-title="VivaTV",NCM BTV10
-http://1.53.178.109:6606/udp/225.1.1.225:30120
-#EXTINF:-1 group-title="VivaTV",PHIM HAY
-http://1.53.178.109:6606/udp/225.1.1.222:30120
-
-#EXTINF:-1 group-title="Other",HanoiCab2 YouTV
-http://1.53.178.109:6606/udp/225.1.1.207:30120
-#EXTINF:-1 tvg-name="MTV" group-title="Other",MTV
-http://1.53.178.109:6606/udp/225.1.1.245:30120
-#EXTINF:-1 group-title="Other",Vietnamnet
-http://1.53.178.109:6606/udp/225.1.1.194:30120
-#EXTINF:-1 tvg-name="Animal Planet-ClipTV" group-title="Quốc Tế (HD)",Animal Planet (HD 8Mbps)
-http://1.53.178.109:6606/udp/225.1.1.231:30120
-#EXTINF:-1 tvg-name="Asian Food Channel" group-title="Quốc Tế (HD)",Asian Food Network (HD 8Mbps)
-http://1.53.178.109:6606/udp/225.1.1.198:30120
-#EXTINF:-1 tvg-name="AXN-ClipTV" group-title="Quốc Tế (HD)",AXN (HD 8Mbps)
-http://1.53.178.109:6606/udp/225.1.2.225:30120
-#EXTINF:-1 tvg-name="Baby TV HD-ClipTV" group-title="Quốc Tế (HD)",Baby TV (HD 8Mbps)
-http://1.53.178.109:6606/udp/225.1.2.146:30120
-#EXTINF:-1 tvg-name="BBC EARTH" group-title="Quốc Tế (HD)",BBC earth (HD 8Mbps)
-http://1.53.178.109:6606/udp/225.1.2.24:30120
-#EXTINF:-1 tvg-name="Blue Ant Entertainment" group-title="Quốc Tế (HD)",BLUE ANT ENTERTAINMENT (HD 8Mbps)
-http://1.53.178.109:6606/udp/225.1.1.203:30120
-#EXTINF:-1 tvg-name="Blue Ant Extreme" group-title="Quốc Tế (HD)",BLUE ANT EXTREME (HD 8Mbps)
-http://1.53.178.109:6606/udp/225.1.1.204:30120
-#EXTINF:-1 tvg-name="Cartoon Network" group-title="Quốc Tế (HD)",CARTOON NETWORK (HD 8Mbps)
-http://1.53.178.109:6606/udp/225.1.2.231:30120
-#EXTINF:-1 tvg-name="Channel V HD-ClipTV" group-title="Quốc Tế (HD)",[V] HD (HD 8Mbps)
-http://1.53.178.109:6606/udp/225.1.1.188:30120
-#EXTINF:-1 tvg-name="CINEMA WORLD" group-title="Quốc Tế (HD)",Cinema World (HD 8Mbps)
-http://1.53.178.109:6606/udp/225.1.1.142:30120
-#EXTINF:-1 tvg-name="Da Vinci" group-title="Quốc Tế (HD)",Da Vinci (HD 8Mbps)
-http://1.53.178.109:6606/udp/225.1.1.197:30120
-#EXTINF:-1 tvg-name="Discovery Asia-ClipTV" group-title="Quốc Tế (HD)",Discovery Asia (HD 8Mbps)
-http://1.53.178.109:6606/udp/225.1.2.223:30120
-#EXTINF:-1 tvg-name="Discovery Channel-ClipTV" group-title="Quốc Tế (HD)",Discovery Channel (HD 8Mbps)
-http://1.53.178.109:6606/udp/225.1.1.238:30120
-#EXTINF:-1 tvg-name="Disney" group-title="Quốc Tế (HD)",Disney Channel (HD 8Mbps)
-http://1.53.178.109:6606/udp/225.1.2.158:30120
-#EXTINF:-1 tvg-name="DW-ClipTV" group-title="Quốc Tế (HD)",DW (HD 8Mbps)
-http://1.53.178.109:6606/udp/225.1.1.46:30120
-#EXTINF:-1 tvg-name="Fashion TV HD" group-title="Quốc Tế (HD)",Fashion TV (HD 8Mbps)
-http://1.53.178.109:6606/udp/225.1.2.227:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)",Fashion TV 4K
-http://1.53.178.109:6606/udp/225.1.2.232:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)",Fashion TV 4K
-http://1.53.178.109:6606/udp/225.1.2.234:30120
-#EXTINF:-1 tvg-name="Fox HD-ClipTV" group-title="Quốc Tế (HD)",FOX HD (HD 8Mbps)
-http://1.53.178.109:6606/udp/225.1.1.51:30120
-#EXTINF:-1 tvg-name="Fox Life HD-ClipTV" group-title="Quốc Tế (HD)",FOX life (HD 8Mbps)
-http://1.53.178.109:6606/udp/225.1.2.237:30120
-#EXTINF:-1 tvg-name="Fox Movies HD-ClipTV" group-title="Quốc Tế (HD)",FOX MOVIES (HD 8Mbps)
-http://1.53.178.109:6606/udp/225.1.2.239:30120
-#EXTINF:-1 tvg-name="FOX SPORTS-ClipTV" group-title="Quốc Tế (HD)",FOX SPORTS (HD 8Mbps)
-http://1.53.178.109:6606/udp/225.1.2.229:30120
-#EXTINF:-1 tvg-name="FOX SPORTS 2-ClipTV" group-title="Quốc Tế (HD)",FOX SPORTS 2 (HD 8Mbps)
-http://1.53.178.109:6606/udp/225.1.1.141:30120
-#EXTINF:-1 tvg-name="FOX SPORTS 3-ClipTV" group-title="Quốc Tế (HD)",FOX SPORTS 3 (HD 8Mbps)
-http://1.53.178.109:6606/udp/225.1.2.242:30120
-#EXTINF:-1 tvg-name="HBO" group-title="Quốc Tế (HD)",HBO (HD 8Mbps)
-http://1.53.178.109:6606/udp/225.1.2.233:30120
-#EXTINF:-1 tvg-name="HBO" group-title="Quốc Tế (HD)",HBO (HD 11Mbps)
-http://1.53.178.109:6606/udp/225.1.2.102:30120
-#EXTINF:-1 tvg-name="KIX" group-title="Quốc Tế (HD)",KIX (HD 8Mbps)
-http://1.53.178.109:6606/udp/225.1.2.144:30120
-#EXTINF:-1 tvg-name="Max by HBO" group-title="Quốc Tế (HD)",MAX BY HBO (HD 8Mbps)
-http://1.53.178.109:6606/udp/225.1.2.86:30120
-#EXTINF:-1 tvg-name="National Geographic HD-ClipTV" group-title="Quốc Tế (HD)",NATIONAL GEOGRAPHIC HD (HD 8Mbps)
-http://1.53.178.109:6606/udp/225.1.2.235:30120
-#EXTINF:-1 tvg-name="NHK World-Japan(HD)" group-title="Quốc Tế (HD)",NHK WORLD JAPAN (HD 8Mbps)
-http://1.53.178.109:6606/udp/225.1.1.47:30120
-#EXTINF:-1 tvg-name="Outdoor Channel (HD)" group-title="Quốc Tế (HD)",Outdoor Channel (HD 8Mbps)
-http://1.53.178.109:6606/udp/225.1.2.215:30120
-#EXTINF:-1 tvg-name="RED BY HBO" group-title="Quốc Tế (HD)",RED BY HBO (HD 8Mbps)
-http://1.53.178.109:6606/udp/225.1.1.93:30120
-#EXTINF:-1 tvg-name="Travel & Living (TLC)" group-title="Quốc Tế (HD)",TLC (HD 8Mbps)
-http://1.53.178.109:6606/udp/225.1.1.236:30120
-#EXTINF:-1 tvg-name="WARNER TV" group-title="Quốc Tế (HD)",WBTV (HD 8Mbps)
-http://1.53.178.109:6606/udp/225.1.1.139:30120
-#EXTINF:-1 tvg-name="Channel V HD-ClipTV" group-title="Quốc Tế (HD)",[V] HD (HD 4Mbps)
-http://1.53.178.109:6606/udp/225.1.4.30:30120
-#EXTINF:-1 tvg-name="Da Vinci" group-title="Quốc Tế (HD)",Da Vinci (HD 4Mbps)
-http://1.53.178.109:6606/udp/225.1.4.38:30120
-#EXTINF:-1 tvg-name="Fox Life HD-ClipTV" group-title="Quốc Tế (HD)",FOX life (HD 8Mbps)
-http://1.53.178.109:6606/udp/225.1.4.32:30120
-#EXTINF:-1 tvg-name="National Geographic HD-ClipTV" group-title="Quốc Tế (HD)",NATIONAL GEOGRAPHIC HD (HD 8Mbps)
-http://1.53.178.109:6606/udp/225.1.4.31:30120
-
-#EXTINF:-1 tvg-name="Arirang" group-title="Quốc Tế (SD)",Arirang
-http://1.53.178.109:6606/udp/225.1.1.201:30120
-#EXTINF:-1 tvg-name="ABC AUSTRALIA" group-title="Quốc Tế (SD)",ABC AUSTRALIA
-http://1.53.178.109:6606/udp/225.1.2.21:30120
-#EXTINF:-1 tvg-name="BBC LIFESTYLE" group-title="Quốc Tế (SD)",BBC Lifestyle
-http://1.53.178.109:6606/udp/225.1.2.52:30120
-#EXTINF:-1 tvg-name="BBC WORLD NEWS" group-title="Quốc Tế (SD)",BBC WORLD NEWS
-http://1.53.178.109:6606/udp/225.1.2.74:30120
-#EXTINF:-1 tvg-name="Channel News Asia" group-title="Quốc Tế (SD)",CNA
-http://1.53.178.109:6606/udp/225.1.1.202:30120
-#EXTINF:-1 group-title="Quốc Tế (SD)",CNBC
-http://1.53.178.109:6606/udp/225.1.1.227:30120
-#EXTINF:-1 tvg-name="CNN-ClipTV" group-title="Quốc Tế (SD)",CNN
-http://1.53.178.109:6606/udp/225.1.1.242:30120
-#EXTINF:-1 tvg-name="Disney Junior" group-title="Quốc Tế (SD)",Disney Junior
-http://1.53.178.109:6606/udp/225.1.1.233:30120
-#EXTINF:-1 tvg-name="France 24 English-ClipTV" group-title="Quốc Tế (SD)",FRANCE 24 (English)
-http://1.53.178.109:6606/udp/225.1.2.211:30120
-#EXTINF:-1 tvg-name="KBS World" group-title="Quốc Tế (SD)",KBS WORLD
-http://1.53.178.109:6606/udp/225.1.1.196:30120
-#EXTINF:-1 tvg-name="TV5 Asie" group-title="Quốc Tế (SD)",TV5 MONDE ASIE
-http://1.53.178.109:6606/udp/225.1.1.200:30120
+#EXTINF:0 type="stream" channelId="-1", Blue Ant Entertainment
+https://livecdn.fptplay.net/hda/blueantent_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="-1", Blue Ant Extreme
+https://livecdn.fptplay.net/hda/blueantext_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="1862", Fox Movies
+https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="-1", Fox Family Movies
+https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="-1", KIX_HD
+https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="178", Fox Life
+https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="208", Fox HD
+https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="-1", [V] HD
+https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="-1", Asian Food Network
+https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="171", Da Vinci
+https://livecdn.fptplay.net/world/davincihd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="3249", KBS World
+https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="-1", NHK World Japan
+https://livecdn.fptplay.net/world/nhkworld_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="352", DW
+https://livecdn.fptplay.net/world/dwenglish_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="529", Arirang
+https://livecdn.fptplay.net/world/arirang_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="-1", CNA
+https://livecdn.fptplay.net/world/newsasia_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="139", France 24 (English)
+https://livecdn.fptplay.net/world/france24_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="-1", TV5 Monde Asie
+https://livecdn.fptplay.net/world/tv5_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="207", National Geographic HD
+https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="353", Outdoor Channel
+https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="1328", Fox Sports
+https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="170", Fox Sports 2
+https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="180", Fox Sports 3
+https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="1573", AXN
+https://livecdn.fptplay.net/qnetlive/axnhd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="-1", WBTV
+https://livecdn.fptplay.net/qnetlive/warnertv_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="-1", Cinema World
+https://livecdn.fptplay.net/qnetlive/cinemawork_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="280", Fashion TV
+https://livecdn.fptplay.net/qnetlive/fashiontvhd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="40", Cartoon Network
+https://livecdn.fptplay.net/qnetlive/cartoonnetworkhd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="321", Boomerang
+https://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="2410", Baby First
+https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="2883", CNN
+https://livecdn.fptplay.net/qnetlive/cnn_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="3192", BBC Earth
+https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="118", BBC World News
+https://livecdn.fptplay.net/qnetlive/bbcnew_2000.stream/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="1145", BBC Lifestyle
+https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="119", Bloomberg
+https://livecdn.fptplay.net/qnetlive/bloomberg_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="-1", ABC Australia
+https://livecdn.fptplay.net/qnetlive/australiaplus_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="57", Discovery
+https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="-1", Discovery Asia
+https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="50", Animal Planet
+https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="67", TLC
+https://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b2500000.m3u8
