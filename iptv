@@ -104,58 +104,56 @@ http://6688.link/YYeBl3OfTgOJc26JxjlNY6G87u0wep/1/VTVcab20-Vfamily.m3u8?user=tay
 http://14.169.24.56:8889/rtp/232.84.1.75:8424
 
 #EXTINF:75 tvg-id="MyTV_VTC1 HD" tvg-name="VTC1 HD" tvg-logo="https://imgur.com/8jgYSbN.png" group-title="VTC",VTC1 HD
-http://1.53.178.109:6606/udp/225.1.2.254:30120
+https://livecdn.fptplay.net/sdb/vtc1_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:21 tvg-id="MyTV_VTC2" tvg-name="VTC2" tvg-logo="https://imgur.com/H6FMp9C.png" group-title="VTC",VTC2 HD
-http://1.53.178.109:6606/udp/225.1.2.202:30120
+https://livecdn.fptplay.net/sdb/vtc2_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:83 tvg-id="MyTV_VTC3 HD" tvg-name="VTC3 HD" tvg-logo="https://imgur.com/kwujTlD.png" group-title="VTC",VTC3 HD
-http://1.53.178.109:6606/udp/225.1.2.251:30120
+https://livecdn.fptplay.net/hda/vtc3hd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF: tvg-id="MyTV_VTC4 - yeah1Family HD" tvg-name="VTC4" tvg-logo="https://imgur.com/VsjIiRT.png" group-title="VTC",VTC4 - yeah1Family HD
-http://1.53.178.109:6606/udp/225.1.2.200:30120
+https://livecdn.fptplay.net/sdc/vtc4_hls.smil/chunklist_b2500000.m3u8
 #EXTINF: tvg-id="MyTV_VTC5 - TV Blue HD" tvg-name="VTC5" tvg-logo="https://imgur.com/q0RPSP8.png" group-title="VTC",VTC5 - TV Blue HD
-http://1.53.178.109:6606/udp/225.1.2.199:30120
+https://livecdn.fptplay.net/sdb/vtc5_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:23 tvg-id="MyTV_VTC6 - Sài Gòn Channel" tvg-name="VTC6" tvg-logo="https://imgur.com/GhgvSCX.png" group-title="VTC",VTC6 - Sài Gòn Channel
-http://1.53.178.109:6606/udp/225.1.2.198:30120
+https://livecdn.fptplay.net/sdb/vtc6_hls.smil/chunklist_b2500000.m3u8
 #EXTINF: tvg-id="MyTV_VTC7 - Today TV HD" tvg-name="VTC7 - Today" tvg-logo="https://imgur.com/iMDjKF9.png" group-title="VTC",VTC7 - Today TV HD
-http://1.53.178.109:6606/udp/225.1.2.197:30120
+https://livecdn.fptplay.net/sdb/todaytv_hls.smil/chunklist_b2500000.m3u8
 #EXTINF: tvg-id="MyTV_VTC8" tvg-name="VTC8" tvg-logo="https://imgur.com/igCqfZh.png" group-title="VTC",VTC8
-http://1.53.178.109:6606/udp/225.1.2.196:30120
+https://livecdn.fptplay.net/sdb/vtc8_hls.smil/chunklist_b2500000.m3u8
 #EXTINF: tvg-id="MyTV_VTC9 HD" tvg-name="VTC9" tvg-logo="https://imgur.com/1RDaToZ.png" group-title="VTC",VTC9 HD
-http://1.53.178.109:6606/udp/225.1.2.195:30120
+https://livecdn.fptplay.net/sdb/vtc9_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:19 tvg-id="MyTV_VTC10 - Nét Việt" tvg-name="VTC10" tvg-logo="https://imgur.com/1U7CKCF.png" group-title="VTC",VTC10 - Nét Việt
-http://1.53.178.109:6606/udp/225.1.2.194:30120
+https://livecdn.fptplay.net/sdb/vtc10_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:26 tvg-id="MyTV_VTC11 - kids TV" tvg-name="VTC11" tvg-logo="https://imgur.com/UaAmF0L.png" group-title="VTC",VTC11 - kids TV
-http://1.53.178.109:6606/udp/225.1.2.193:30120
+https://livecdn.fptplay.net/sdb/vtc11_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:57 tvg-id="MyTV_VTC12 - TOP Shopping" tvg-name="VTC12" tvg-logo="https://imgur.com/WaXDncJ.png" group-title="VTC",VTC12 - TOP Shopping
-http://1.53.178.109:6606/udp/225.1.2.51:30120
+https://livecdn.fptplay.net/sdb/vtc12_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:78 tvg-id="MyTV_VTC13 - Ca nhạc HD" tvg-name="VTC13" tvg-logo="https://imgur.com/lNji7l0.png" group-title="VTC",VTC13 - Ca nhạc HD
-http://1.53.178.109:6606/udp/225.1.2.250:30120
+https://livecdn.fptplay.net/sdc/vtc13_hls.smil/chunklist_b2800000.m3u8
 #EXTINF:29 tvg-id="MyTV_VTC14" tvg-name="VTC14" tvg-logo="https://imgur.com/Kqt7Myy.png" group-title="VTC",VTC14
-http://14.169.24.56:8889/rtp/232.84.1.216:9270
+https://livecdn.fptplay.net/sdc/vtc14_hls.smil/chunklist_b2800000.m3u8
 #EXTINF:28 tvg-id="MyTV_VTC16 - 3NTV" tvg-name="VTC16" tvg-logo="https://imgur.com/22TpWVd.png" group-title="VTC",VTC16 - 3NTV
-http://1.53.178.109:6606/udp/225.1.2.190:30120
+https://livecdn.fptplay.net/sdb/vtc16_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:10 tvg-id="MyTV_HTV1" tvg-name="HTV1" tvg-logo="https://imgur.com/gftnwdV.png" group-title="HTV",HTV1
 http://1.53.178.109:6606/udp/225.1.1.180:30120
 #EXTINF:93 tvg-id="MyTV_HTV2 HD" tvg-name="HTV2 HD" tvg-logo="https://imgur.com/O6jgDUM.png" group-title="HTV",HTV2 HD
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV2-HD-1080p/playlist.m3u8
 #EXTINF:87 tvg-id="MyTV_HTV3" tvg-name="HTV3" tvg-logo="https://imgur.com/gjZnjmF.png" group-title="HTV",HTV3
-http://1.53.178.109:6606/udp/225.1.1.178:30120
+https://livecdn.fptplay.net/sdb/htv3_2000.stream/chunklist.m3u8
 #EXTINF:14 tvg-id="MyTV_HTV4" tvg-name="HTV4" tvg-logo="https://imgur.com/yfQlyez.png" group-title="HTV",HTV4
 http://14.169.24.56:8889/rtp/232.84.1.25:8124
 #EXTINF:94 tvg-id="MyTV_HTV7 HD" tvg-name="HTV7 HD" tvg-logo="https://imgur.com/OfGoIJ4.png" group-title="HTV",HTV7 HD
-http://14.169.24.56:8889/rtp/232.84.1.223:9312
+https://livecdn.fptplay.net/hda/htv7hd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:95 tvg-id="MyTV_HTV9 HD" tvg-name="HTV9" tvg-logo="https://imgur.com/Hqo8hqb.png" group-title="HTV",HTV9 HD
-http://14.169.24.56:8889/rtp/232.84.1.224:9318
+https://livecdn.fptplay.net/hda/htv9hd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:107 tvg-id="MyTV_HTVC - Ca nhạc" tvg-name="HTVC - Ca Nhac" tvg-logo="https://imgur.com/ifeb8fC.png" group-title="HTV Cáp",HTVC - Ca nhạc
 http://1.53.178.109:6606/udp/225.1.1.184:30120
 #EXTINF:63 tvg-id="MyTV_HTVC - Du lịch & Cuộc sống" tvg-name="HTVC - Du Lich" tvg-logo="https://imgur.com/nTF9DFR.png" group-title="HTV Cáp",HTVC - Du lịch & Cuộc sống
-http://1.53.178.109:6606/udp/225.1.1.166:30120
+http://1.53.178.109:6606/udp/225.1.1.166:301https://livecdn.fptplay.net/hda/htvcdulich_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:64 tvg-id="MyTV_HTVC - Gia đình" tvg-name="HTVC - Gia Dinh" tvg-logo="https://imgur.com/CKOqpVy.png" group-title="HTV Cáp",HTVC - Gia đình
-http://1.53.178.109:6606/udp/225.1.1.170:30120
+https://livecdn.fptplay.net/hda/htvcgiadinh_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:9 tvg-id="MyTV_HTVC - Phụ nữ" tvg-name="HTVC - Phu Nu" tvg-logo="https://imgur.com/yXZ2rvL.png" group-title="HTV Cáp",HTVC - Phụ nữ
-http://1.53.178.109:6606/udp/225.1.1.171:30120
-#EXTINF:16 tvg-id="MyTV_HTVC - Thuần Việt" tvg-name="HTVC - Thuan Viet" tvg-logo="https://imgur.com/KtMeo6q.png" group-title="HTV Cáp",HTVC - Thuần Việt
-http://1.53.178.109:6606/udp/225.1.1.186:30120
+https://livecdn.fptplay.net/hda/htvcphunu_2000.stream/chunklist.m3u8
 #EXTINF:74 tvg-id="MyTV_HTVC - Thuần Việt HD" tvg-name="HTVC - Thuan Viet HD" tvg-logo="https://imgur.com/M4rF27R.png" group-title="HTV Cáp",HTVC - Thuần Việt HD
 http://6688.link/YYeBl3OfTgOJc26JxjlNY6G87u0wep/1/HTV-Thuan-Viet-HD.m3u8?user=taytran&pass=000
 
