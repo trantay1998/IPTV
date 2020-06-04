@@ -18,6 +18,9 @@ https://subs-livecdn.fptplay.net/hda/vtv8hd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-name="VTV9-VTV" group-title="VTV" tvg-logo="https://i.imgur.com/9mL8Ve0.png",VTV9 HD
 https://livecdn.fptplay.net/hda/vtv9_hls.smil/chunklist_b2500000.m3u8
 
+#EXTINF:0 tvg-id="K+PM-HD" group-title="K+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/K%2BPM_HD.png",K+PM HD
+http://hls.tinhq.ml/live/kpm/index.m3u8
+
 #EXTINF:-1 tvg-id="sctv1" group-title="SCTV" tvg-logo="https://lh3.googleusercontent.com/-N7N00xEzwdk/WseTQ4JIZAI/AAAAAAAAD54/3CBRPE78BnARomYiVfxbMN2cMgR8G4o5gCLcBGAs/h1200/s1.png", SCTV1 HD - Hài
 https://vtsstr1.tv24.vn/live/_definst_/smil:SCTV_HD_Hai.smil/chunklist_b2692000.m3u8
 #EXTINF:-1 tvg-id="sctv2_hd" group-title="SCTV" tvg-logo="https://lh3.googleusercontent.com/-TB-w1GvbrGs/WseUwDqd85I/AAAAAAAAD6E/hAmq_EUWOYoU-tv3MbdQBOo7AYaQ_l8VACLcBGAs/h300/s2-hd-kbg.png", SCTV2 HD - AMC
@@ -63,8 +66,8 @@ http://xemtivi@khongcopylink:khongcopylink@tvheadendvn.duckdns.org:9981/stream/c
 #EXTINF:-1 tvg-id="sctv_phim_tong_hop_hd" group-title="SCTV" tvg-logo="https://tvonline.vn/wp-content/uploads/2018/07/large_sctvHD-Phimtonghop.png", SCTV HD Phim Tổng Hợp
 https://vtsstr1.tv24.vn/live/_definst_/smil:SCTVHDPhimTH.smil/chunklist_b2692000.m3u8
 
-#EXTINF:0 tvg-id="K+PC-HD" group-title="K+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/K%2BPC.png",K+PC HD (ĐÃ MỞ)
-http://1.53.178.109:6606/udp/225.1.1.1:30120
+#EXTINF:0 tvg-id="K+PM-HD" group-title="K+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/K%2BPM_HD.png",K+PM HD
+http://hls.tinhq.ml/live/kpm/index.m3u8
 
 #EXTINF:97 tvg-id="MyTV_VTVCab1 - Giải trí TV" tvg-name="VTVCab 1 - Giai Tri" tvg-logo="https://imgur.com/9TBBQNL.png" group-title="VTV Cáp",VTVCab1 - Giải trí TV
 http://6688.link/YYeBl3OfTgOJc26JxjlNY6G87u0wep/1/VTVcab1-Giai-Tri-TV.m3u8?user=taytran&pass=000
