@@ -18,6 +18,8 @@ https://subs-livecdn.fptplay.net/hda/vtv8hd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-name="VTV9-VTV" group-title="VTV" tvg-logo="https://i.imgur.com/9mL8Ve0.png",VTV9 HD
 https://livecdn.fptplay.net/hda/vtv9_hls.smil/chunklist_b2500000.m3u8
 
+#EXTINF:0 tvg-id="K+1-HD" group-title="K+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/K%2B1_HD.png",K+1 HD
+http://hls.tinhq.ml/live/kplus/index.m3u8
 #EXTINF:0 tvg-id="K+PM-HD" group-title="K+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/K%2BPM_HD.png",K+PM HD
 http://hls.tinhq.ml/live/kpm/index.m3u8
 
