@@ -18,17 +18,13 @@ https://subs-livecdn.fptplay.net/hda/vtv8hd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-name="VTV9-VTV" group-title="VTV" tvg-logo="https://i.imgur.com/9mL8Ve0.png",VTV9 HD
 https://livecdn.fptplay.net/hda/vtv9_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:0 tvg-id="K+1-HD" group-title="K+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/K%2B1_HD.png",K+1 HD
-http://hls.tinhq.ml/live/kplus/index.m3u8
-#EXTINF:0 tvg-id="K+PM-HD" group-title="K+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/K%2BPM_HD.png",K+PM HD
-http://hls.tinhq.ml/live/kpm/index.m3u8
 
 #EXTINF:-1 tvg-id="sctv1" group-title="SCTV" tvg-logo="https://lh3.googleusercontent.com/-N7N00xEzwdk/WseTQ4JIZAI/AAAAAAAAD54/3CBRPE78BnARomYiVfxbMN2cMgR8G4o5gCLcBGAs/h1200/s1.png", SCTV1 HD - Hài
-https://vtsstr1.tv24.vn/live/_definst_/smil:SCTV_HD_Hai.smil/chunklist_b2692000.m3u8
+https://vtsstr1.tv24.vn/live/_definst_/smil:SCTV_HD_Hai.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="sctv2_hd" group-title="SCTV" tvg-logo="https://lh3.googleusercontent.com/-TB-w1GvbrGs/WseUwDqd85I/AAAAAAAAD6E/hAmq_EUWOYoU-tv3MbdQBOo7AYaQ_l8VACLcBGAs/h300/s2-hd-kbg.png", SCTV2 HD - AMC
-https://vtsstr6.tv24.vn/live/_definst_/smil:sctv2_HD.smil/chunklist_b2692000.m3u8
+https://vtsstr6.tv24.vn/live/_definst_/smil:sctv2_HD.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="sctv3_see_tv" group-title="SCTV" tvg-logo="https://lh3.googleusercontent.com/-X1tut8Gx4rs/WseVIu6RQQI/AAAAAAAAD6I/4RpLTJeoANQMEjfhOrUVN2pRYyj4hIT2wCLcBGAs/h300/s3.png", SCTV3 HD - See TV
-https://vtsstr6.tv24.vn/live/_definst_/smil:SCTVHDThieunhi.smil/chunklist_b2692000.m3u8
+https://vtsstr6.tv24.vn/live/_definst_/smil:SCTVHDThieunhi.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="sctv4" group-title="SCTV" tvg-logo="https://lh3.googleusercontent.com/-1GSs7Z3RVws/WseWBOY4tfI/AAAAAAAAD6Y/4aSjjcJfLGwmPqlIMmC5kBGdVJx-exnjACLcBGAs/h300/s4-hd-kbg.png", SCTV4 HD
 http://xemtivi@khongcopylink:khongcopylink@tvheadendvn.duckdns.org:9981/stream/channelid/1377877890
 #EXTINF:-1 tvg-id="sctv6_hd" group-title="SCTV" tvg-logo="https://lh3.googleusercontent.com/-Y8R-P3RMceo/WseW162RWBI/AAAAAAAAD6k/5TzcBfg1ilg0y_Z7c0BjGjoABJzhra_hgCLcBGAs/h300/s6-hd-kbg.png", SCTV6 HD - SNTV
@@ -46,7 +42,7 @@ https://vtsstr6.tv24.vn/live/_definst_/smil:SCTVVHNT_HD.smil/chunklist_b2692000.
 #EXTINF:-1 tvg-id="sctv12" group-title="SCTV" tvg-logo="https://lh3.googleusercontent.com/-0gNulvNwq_U/WseYP7XMBCI/AAAAAAAAD68/ikdeNNP2QkcQry2mhmagDcSe4fYG_f-8QCLcBGAs/h300/S12.png", SCTV12 HD - Du Lịch
 https://vtsstr6.tv24.vn/live/_definst_/smil:SCTV12_HD.smil/chunklist_b2692000.m3u8
 #EXTINF:-1 tvg-id="sctv13_lady_tv" group-title="SCTV" tvg-logo="https://lh3.googleusercontent.com/-GUtfmpUWAmM/WseYFaiUZhI/AAAAAAAAD64/pljxiaASby8qVw34njCsmwdQa7VvPLJKwCLcBGAs/h300/s13.png", SCTV13 HD - Lady TV
-https://vtsstr1.tv24.vn/live/_definst_/smil:SCTVHDPhunuGiadinh.smil/chunklist_b2692000.m3u8
+https://vtsstr1.tv24.vn/live/_definst_/smil:SCTVHDPhunuGiadinh.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="sctv14_kenh_phim_viet" group-title="SCTV" tvg-logo="https://lh3.googleusercontent.com/-9Bw4SgHcj2M/WseYksiv6tI/AAAAAAAAD7E/_rlL_mEWfD0Qf9aLdbyR5sDAhdv89muWQCLcBGAs/h300/s14.png", SCTV14 HD - Kênh Phim Việt
 https://vtsstr1.tv24.vn/live/_definst_/smil:SCTV_HD_PhimViet.smil/chunklist_b2692000.m3u8
 #EXTINF:-1 tvg-id="sctv15_s_sport_2" group-title="SCTV" tvg-logo="https://lh3.googleusercontent.com/-1bmdnBSIk88/WpOHchHFhZI/AAAAAAAAD0E/oonOArz9dOkZaackkFEuXNT9fF4k6mIvwCEwYBhgL/h350/s15-hd-kbg.png", SCTV15 - S Sport 2
