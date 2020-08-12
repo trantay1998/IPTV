@@ -1,1 +1,303 @@
-# IPTV
+#EXTM3U url-tvg="http://iptv4u.online/schedule/epg.xml"
+#EXTINF:-1 group-title="VTV" tvg-id="VTV1 HD" tvg-logo="http://playi.cf/logo/vtv1hd.jpg",VTV1 HD
+http://6688.link/YYeBl3OfTgOJc26JxjlNY6G87u0wep/1/VTV1-HD.m3u8?user=anhnguyen&pass=000
+#EXTINF:-1 group-title="VTV" tvg-id="VTV2 HD" tvg-logo="http://playi.cf/logo/vtv2hd.jpg",VTV2 HD
+http://6688.link/YYeBl3OfTgOJc26JxjlNY6G87u0wep/1/VTV2-HD.m3u8?user=anhnguyen&pass=000
+#EXTINF:-1 group-title="VTV" tvg-id="VTV3 HD" tvg-logo="http://playi.cf/logo/vtv3hd.jpg",VTV3 HD
+http://6688.link/YYeBl3OfTgOJc26JxjlNY6G87u0wep/1/VTV3-HD.m3u8?user=anhnguyen&pass=000
+#EXTINF:-1 group-title="VTV" tvg-id="VTV4 HD" tvg-logo="http://playi.cf/logo/vtv4hd.png",VTV4 HD
+http://6688.link/YYeBl3OfTgOJc26JxjlNY6G87u0wep/1/VTV4-HD.m3u8?user=anhnguyen&pass=000
+#EXTINF:-1 group-title="VTV" tvg-id="VTV5 HD" tvg-logo="http://playi.cf/logo/vtv5hd.png",VTV5 HD
+http://6688.link/YYeBl3OfTgOJc26JxjlNY6G87u0wep/1/VTV5-HD.m3u8?user=anhnguyen&pass=000
+#EXTINF:-1 group-title="VTV" tvg-id="VTV6 HD" tvg-logo="http://playi.cf/logo/vtv6hd.jpg",VTV6 HD
+http://6688.link/YYeBl3OfTgOJc26JxjlNY6G87u0wep/1/VTV6-HD.m3u8?user=anhnguyen&pass=000
+#EXTINF:-1 group-title="VTV" tvg-id="VTV7 HD" tvg-logo="http://playi.cf/logo/vtv7.jpg",VTV7 HD
+http://6688.link/YYeBl3OfTgOJc26JxjlNY6G87u0wep/1/VTV7-HD.m3u8?user=anhnguyen&pass=000
+#EXTINF:-1 group-title="VTV" tvg-id="VTV8 HD" tvg-logo="http://playi.cf/logo/vtv8.jpg",VTV8 HD
+http://6688.link/YYeBl3OfTgOJc26JxjlNY6G87u0wep/1/VTV8-HD.m3u8?user=anhnguyen&pass=000
+#EXTINF:-1 group-title="VTV" tvg-id="VTV9 HD" tvg-logo="http://playi.cf/logo/vtv9.jpg",VTV9 HD
+http://6688.link/YYeBl3OfTgOJc26JxjlNY6G87u0wep/1/VTV9-HD.m3u8?user=anhnguyen&pass=000
+#EXTINF:-1 group-title="K+" tvg-id="K+1 HD" tvg-logo="http://playi.cf/logo/kplus1hd.jpg",K+1 HD DRM
+http://6688.link/YYeBl3OfTgOJc26JxjlNY6G87u0wep/2/1.m3u8?user=anhnguyen&pass=000
+#EXTINF:-1 group-title="K+" tvg-id="K+NS HD" tvg-logo="http://playi.cf/logo/kplusnshd.jpg",K+NS HD DRM
+http://6688.link/YYeBl3OfTgOJc26JxjlNY6G87u0wep/2/2.m3u8?user=anhnguyen&pass=000
+#EXTINF:-1 group-title="K+" tvg-id="K+PC HD" tvg-logo="http://playi.cf/logo/kpluspchd.jpg",K+PC HD DRM
+http://6688.link/YYeBl3OfTgOJc26JxjlNY6G87u0wep/2/3.m3u8?user=anhnguyen&pass=000
+#EXTINF:-1 group-title="K+" tvg-id="K+PM HD" tvg-logo="http://playi.cf/logo/kpluspmhd.jpg",K+PM HD DRM
+http://6688.link/YYeBl3OfTgOJc26JxjlNY6G87u0wep/2/4.m3u8?user=anhnguyen&pass=000
+#EXTINF:-1 group-title="HTV" tvg-id="HTV1" tvg-logo="http://playi.cf/logo/htv1.jpg",HTV1
+http://6688.link/YYeBl3OfTgOJc26JxjlNY6G87u0wep/1/HTV1.m3u8?user=anhnguyen&pass=000
+#EXTINF:-1 group-title="HTV" tvg-id="HTV2 HD" tvg-logo="http://playi.cf/logo/htv2hd.jpg",HTV2
+http://6688.link/YYeBl3OfTgOJc26JxjlNY6G87u0wep/1/htv2hd.m3u8?user=anhnguyen&pass=000
+#EXTINF:-1 group-title="HTV" tvg-id="HTV3" tvg-logo="http://playi.cf/logo/htv3.jpg",HTV3
+http://6688.link/YYeBl3OfTgOJc26JxjlNY6G87u0wep/1/HTV3.m3u8?user=anhnguyen&pass=000
+#EXTINF:-1 group-title="HTV" tvg-id="HTV Key" tvg-logo="http://playi.cf/logo/htv4.jpg",HTV Key
+http://6688.link/YYeBl3OfTgOJc26JxjlNY6G87u0wep/1/HTV4.m3u8?user=anhnguyen&pass=000
+#EXTINF:-1 group-title="HTV" tvg-id="HTV7 HD" tvg-logo="http://playi.cf/logo/htv7hd.jpg",HTV7 HD
+http://6688.link/YYeBl3OfTgOJc26JxjlNY6G87u0wep/1/HTV7-HD.m3u8?user=anhnguyen&pass=000
+#EXTINF:-1 group-title="HTV" tvg-id="HTV9 HD" tvg-logo="http://playi.cf/logo/htv9hd.jpg",HTV9 HD
+http://6688.link/YYeBl3OfTgOJc26JxjlNY6G87u0wep/1/HTV9-HD.m3u8?user=anhnguyen&pass=000
+#EXTINF:-1 group-title="HTV" tvg-id="HTVC Ca Nhạc HD" tvg-logo="http://playi.cf/logo/canhac.jpg",HTV Ca nhạc
+http://6688.link/YYeBl3OfTgOJc26JxjlNY6G87u0wep/1/HTVC-Ca-Nhac.m3u8?user=anhnguyen&pass=000
+#EXTINF:-1 group-title="HTV" tvg-id="HTVC Du Lịch HD" tvg-logo="http://playi.cf/logo/htvcdulich.jpg",HTV Du lịch
+http://6688.link/YYeBl3OfTgOJc26JxjlNY6G87u0wep/1/HTVC-Du-Lich-Cuoc-Song.m3u8?user=anhnguyen&pass=000
+#EXTINF:-1 group-title="HTV" tvg-id="HTVC Gia Đình HD" tvg-logo="http://playi.cf/logo/giadinh.jpg",HTV Gia đình
+http://6688.link/YYeBl3OfTgOJc26JxjlNY6G87u0wep/1/HTVC-Gia-Dinh.m3u8?user=anhnguyen&pass=000
+#EXTINF:-1 group-title="HTV" tvg-id="HTVC Phim HD" tvg-logo="http://playi.cf/logo/htvcphimhd.png",HTVC Phim HD
+http://6688.link/YYeBl3OfTgOJc26JxjlNY6G87u0wep/1/HTVC-Phim-HD.m3u8?user=anhnguyen&pass=000
+#EXTINF:-1 group-title="HTV" tvg-id="HTVC Phụ Nữ HD" tvg-logo="http://playi.cf/logo/htvcphunu.png",HTV Phụ nữ
+http://6688.link/YYeBl3OfTgOJc26JxjlNY6G87u0wep/1/HTV-Phu-Nu.m3u8?user=anhnguyen&pass=000
+#EXTINF:-1 group-title="HTV" tvg-id="HTVC Thuần Việt" tvg-logo="http://playi.cf/logo/thuanviet.jpg",HTVC Thuần Việt
+http://6688.link/YYeBl3OfTgOJc26JxjlNY6G87u0wep/1/HTV-Thuan-Viet.m3u8?user=anhnguyen&pass=000
+#EXTINF:-1 group-title="HTV" tvg-id="HTVC Thuần Việt HD" tvg-logo="http://playi.cf/logo/thuanviethd.jpg",HTVC Thuần Việt HD
+http://6688.link/YYeBl3OfTgOJc26JxjlNY6G87u0wep/1/HTV-Thuan-Viet-HD.m3u8?user=anhnguyen&pass=000
+#EXTINF:-1 group-title="HTV" tvg-id="HTV Thể Thao HD" tvg-logo="http://playi.cf/logo/htvthethao.png",HTV Thể thao HD
+http://6688.link/YYeBl3OfTgOJc26JxjlNY6G87u0wep/1/HTVC-The-thao.m3u8?user=anhnguyen&pass=000
+#EXTINF:-1 group-title="VTC" tvg-id="VTC-HD 1" tvg-logo="http://123.29.68.243:8080/static/channel/75.png",VTC1
+http://6688.link/YYeBl3OfTgOJc26JxjlNY6G87u0wep/1/VTC1-HD.m3u8?user=anhnguyen&pass=000
+#EXTINF:-1 group-title="VTC" tvg-id="VTC 2" tvg-logo="http://123.29.68.243:8080/static/channel/21.png",VTC2
+http://6688.link/YYeBl3OfTgOJc26JxjlNY6G87u0wep/1/VTC2.m3u8?user=anhnguyen&pass=000
+#EXTINF:-1 group-title="VTC" tvg-id="VTC HD3" tvg-logo="http://123.29.68.243:8080/static/channel/22.png",VTC3
+http://6688.link/YYeBl3OfTgOJc26JxjlNY6G87u0wep/1/VTC3-The-Thao-HD.m3u8?user=anhnguyen&pass=000
+#EXTINF:-1 group-title="VTC" tvg-id="VTC HD4" tvg-logo="",VTC4
+http://6688.link/YYeBl3OfTgOJc26JxjlNY6G87u0wep/1/VTC4-HD.m3u8?user=anhnguyen&pass=000
+#EXTINF:-1 group-title="VTC" tvg-id="VTC HD5" tvg-logo="",VTC5
+http://6688.link/YYeBl3OfTgOJc26JxjlNY6G87u0wep/1/VTC5-HD.m3u8?user=anhnguyen&pass=000
+#EXTINF:-1 group-title="VTC" tvg-id="VTC HD6" tvg-logo="http://123.29.68.243:8080/static/channel/23.png",VTC6
+http://6688.link/YYeBl3OfTgOJc26JxjlNY6G87u0wep/1/VTC6.m3u8?user=anhnguyen&pass=000
+#EXTINF:-1 group-title="VTC" tvg-id="VTC 7 (Today)" tvg-logo="http://123.29.68.243:8080/static/channel/18.png",VTC7
+http://6688.link/YYeBl3OfTgOJc26JxjlNY6G87u0wep/1/VTC7-Today-TV-HD.m3u8?user=anhnguyen&pass=000
+#EXTINF:-1 group-title="VTC" tvg-id="VTC 8 (VITV)" tvg-logo="",VTC8
+http://6688.link/YYeBl3OfTgOJc26JxjlNY6G87u0wep/1/VTC8.m3u8?user=anhnguyen&pass=000
+#EXTINF:-1 group-title="VTC" tvg-id="VTC HD9" tvg-logo="http://123.29.68.243:8080/static/channel/189.png",VTC9
+http://6688.link/YYeBl3OfTgOJc26JxjlNY6G87u0wep/1/VTC9-HD.m3u8?user=anhnguyen&pass=000
+#EXTINF:-1 group-title="VTC" tvg-id="VTC 10" tvg-logo="",VTC10
+http://6688.link/YYeBl3OfTgOJc26JxjlNY6G87u0wep/1/VTC10-NetViet.m3u8?user=anhnguyen&pass=000
+#EXTINF:-1 group-title="VTC" tvg-id="VTC 11" tvg-logo="http://123.29.68.243:8080/static/channel/26.png",VTC11
+http://6688.link/YYeBl3OfTgOJc26JxjlNY6G87u0wep/1/VTC11-KidsTV.m3u8?user=anhnguyen&pass=000
+#EXTINF:-1 group-title="VTC" tvg-id="VTC 12" tvg-logo="",VTC12
+http://6688.link/YYeBl3OfTgOJc26JxjlNY6G87u0wep/1/vtc12.m3u8?user=anhnguyen&pass=000
+#EXTINF:-1 group-title="VTC" tvg-id="VTC HD13" tvg-logo="http://123.29.68.243:8080/static/channel/78.png",VTC13
+http://6688.link/YYeBl3OfTgOJc26JxjlNY6G87u0wep/1/VTC13-iTV-HD.m3u8?user=anhnguyen&pass=000
+#EXTINF:-1 group-title="VTC" tvg-id="VTC HD14" tvg-logo="",VTC14
+http://6688.link/YYeBl3OfTgOJc26JxjlNY6G87u0wep/1/VTC14-Phong-Chong.m3u8?user=anhnguyen&pass=000
+#EXTINF:-1 group-title="VTC" tvg-id="VTC 16" tvg-logo="",VTC16
+http://6688.link/YYeBl3OfTgOJc26JxjlNY6G87u0wep/1/VTC16-3NTV-Nong.m3u8?user=anhnguyen&pass=000
+#EXTINF:-1 group-title="VTVcab" tvg-id="VTVCab1 HD - Giải Trí TV" tvg-logo="",VTVcab1 - Giai Tri TV
+http://6688.link/YYeBl3OfTgOJc26JxjlNY6G87u0wep/1/VTVcab1-Giai-Tri-TV.m3u8?user=anhnguyen&pass=000
+#EXTINF:-1 group-title="VTVcab" tvg-id="VTVCab2 HD - Phim Việt" tvg-logo="",VTVcab2 - Phim Viet
+http://6688.link/YYeBl3OfTgOJc26JxjlNY6G87u0wep/1/VTVcab2-Phim-Viet.m3u8?user=anhnguyen&pass=000
+#EXTINF:-1 group-title="VTVcab" tvg-id="VTVCab3 - Thể Thao TV" tvg-logo="",VTVcab3 - The Thao TV
+http://6688.link/YYeBl3OfTgOJc26JxjlNY6G87u0wep/1/VTVcab3-The-Thao-TV.m3u8?user=anhnguyen&pass=000
+#EXTINF:-1 group-title="VTVcab" tvg-id="VTVCab3 HD - Thể Thao TV" tvg-logo="",VTVcab3 HD - The Thao TV
+http://6688.link/YYeBl3OfTgOJc26JxjlNY6G87u0wep/1/VTVcab3-HD-The-Thao-TV.m3u8?user=anhnguyen&pass=000
+#EXTINF:-1 group-title="VTVcab" tvg-id="VTVCab4 HD - Văn Hóa" tvg-logo="",VTVcab4
+http://6688.link/YYeBl3OfTgOJc26JxjlNY6G87u0wep/1/VTVcab4-Van-Hoa-TV-(HD).m3u8?user=anhnguyen&pass=000
+#EXTINF:-1 group-title="VTVcab" tvg-id="VTVCab5 HD - E Channel" tvg-logo="",VTVcab5 - E Channel
+http://6688.link/YYeBl3OfTgOJc26JxjlNY6G87u0wep/1/VTVcab5-E.m3u8?user=anhnguyen&pass=000
+#EXTINF:-1 group-title="VTVcab" tvg-id="VTVCab6 HD - Hay TV" tvg-logo="",VTVcab6 - Hay TV
+http://6688.link/YYeBl3OfTgOJc26JxjlNY6G87u0wep/1/VTVcab6-Hay-TV.m3u8?user=anhnguyen&pass=000
+#EXTINF:-1 group-title="VTVcab" tvg-id="VTVCab7 HD - Dramas" tvg-logo="",VTVcab7 - O2TV
+http://6688.link/YYeBl3OfTgOJc26JxjlNY6G87u0wep/1/O2TV.m3u8?user=anhnguyen&pass=000
+#EXTINF:-1 group-title="VTVcab" tvg-id="VTVCab8 HD - BiBi" tvg-logo="",VTVcab8 - BiBi
+http://6688.link/YYeBl3OfTgOJc26JxjlNY6G87u0wep/1/VTVcab8-BIBI.m3u8?user=anhnguyen&pass=000
+#EXTINF:-1 group-title="VTVcab" tvg-id="VTVCab9 HD - Info TV" tvg-logo="",VTVcab9 HD - Info TV
+http://6688.link/YYeBl3OfTgOJc26JxjlNY6G87u0wep/1/VTVcab-9-InfoTV.m3u8?user=anhnguyen&pass=000
+#EXTINF:-1 group-title="VTVcab" tvg-id="VTVCab10 HD" tvg-logo="",VTVcab 10 - D Drama
+http://6688.link/YYeBl3OfTgOJc26JxjlNY6G87u0wep/1/VTVcab7-D-Dramas.m3u8?user=anhnguyen&pass=000
+#EXTINF:-1 group-title="VTVcab" tvg-id="VTVCAB" tvg-logo="http://123.29.68.243:8080/static/channel/8.png",VTVcab11
+http://6688.link/YYeBl3OfTgOJc26JxjlNY6G87u0wep/1/VTVcab11-(VGS-Shop).m3u8?user=anhnguyen&pass=000
+#EXTINF:-1 group-title="VTVcab" tvg-id="VTVCab12 HD - Style TV" tvg-logo="",VTVcab 12 - Style TV HD
+http://6688.link/YYeBl3OfTgOJc26JxjlNY6G87u0wep/1/VTVcab12-S.m3u8?user=anhnguyen&pass=000
+#EXTINF:-1 group-title="VTVcab" tvg-id="VTVCAB" tvg-logo="http://123.29.68.243:8080/static/channel/17.png",VTVcab13
+http://6688.link/YYeBl3OfTgOJc26JxjlNY6G87u0wep/1/VTVcab13.m3u8?user=anhnguyen&pass=000
+#EXTINF:-1 group-title="VTVcab" tvg-id="VTVCab15 HD - M Channel" tvg-logo="",VTVCab15 - M Channel
+http://6688.link/YYeBl3OfTgOJc26JxjlNY6G87u0wep/1/VTVcab-15-M-Channel.m3u8?user=anhnguyen&pass=000
+#EXTINF:-1 group-title="VTVcab" tvg-id="VTVCab16 - Bóng Đá TV" tvg-logo="",VTVCab16 - Bóng Đá TV
+http://6688.link/YYeBl3OfTgOJc26JxjlNY6G87u0wep/1/VTVcab16-Bong-Da-TV.m3u8?user=anhnguyen&pass=000
+#EXTINF:-1 group-title="VTVcab" tvg-id="VTVCab16 HD - Bóng Đá TV" tvg-logo="",VTVCab16 HD - Bóng Đá TV
+http://6688.link/YYeBl3OfTgOJc26JxjlNY6G87u0wep/1/VTVcab16-HD-Bong-Da-TV-HD.m3u8?user=anhnguyen&pass=000
+#EXTINF:-1 group-title="VTVcab" tvg-id="VTVCab17 HD - Yeah1 TV" tvg-logo="",VTVCab17 HD - Yeah1 TV
+http://6688.link/YYeBl3OfTgOJc26JxjlNY6G87u0wep/1/VTVcab17-Yeah1-TV.m3u8?user=anhnguyen&pass=000
+#EXTINF:-1 group-title="VTVcab" tvg-id="VTVCab18 HD - Thể Thao - Tin Tức" tvg-logo="",VTVCab18 HD - Thể Thao - Tin Tức
+http://6688.link/YYeBl3OfTgOJc26JxjlNY6G87u0wep/1/VTVcab-18-Tin-tuc-The-thao-(HD).m3u8?user=anhnguyen&pass=000
+#EXTINF:-1 group-title="VTVcab" tvg-id="VTVCab19 HD - Film TV" tvg-logo="",VTVCab19 HD - Film TV
+http://6688.link/YYeBl3OfTgOJc26JxjlNY6G87u0wep/1/VTVcab19-Phim.m3u8?user=anhnguyen&pass=000
+#EXTINF:-1 group-title="VTVcab" tvg-id="VTVCab20 HD - V Family" tvg-logo="",VTVCab20 HD - V Family
+http://6688.link/YYeBl3OfTgOJc26JxjlNY6G87u0wep/1/VTVcab20-Vfamily.m3u8?user=anhnguyen&pass=000
+#EXTINF:-1 group-title="VTVcab" tvg-id="VTVCab23 HD - Thể Thao Golf" tvg-logo="",VTVCab23 HD - Thể Thao Golf
+http://6688.link/YYeBl3OfTgOJc26JxjlNY6G87u0wep/1/The-thao-Golf-HD-VTVcab23.m3u8?user=anhnguyen&pass=000
+#EXTINF:-1 group-title="SCTV" tvg-id="SCTV" tvg-logo="",SCTV HD phim tong hop
+http://6688.link/YYeBl3OfTgOJc26JxjlNY6G87u0wep/1/sctv-phim.m3u8?user=anhnguyen&pass=000
+#EXTINF:-1 group-title="SCTV" tvg-id="SCTV1 HD" tvg-logo="",SCTV1 HD
+http://6688.link/YYeBl3OfTgOJc26JxjlNY6G87u0wep/1/sctv1.m3u8?user=anhnguyen&pass=000
+#EXTINF:-1 group-title="SCTV" tvg-id="SCTV2 HD" tvg-logo="",SCTV2
+http://6688.link/YYeBl3OfTgOJc26JxjlNY6G87u0wep/1/sctv2.m3u8?user=anhnguyen&pass=000
+#EXTINF:-1 group-title="SCTV" tvg-id="SCTV7 HD" tvg-logo="",SCTV7
+http://6688.link/YYeBl3OfTgOJc26JxjlNY6G87u0wep/1/sctv7.m3u8?user=anhnguyen&pass=000
+#EXTINF:-1 group-title="SCTV" tvg-id="SCTV8 HD" tvg-logo="",SCTV8
+http://6688.link/YYeBl3OfTgOJc26JxjlNY6G87u0wep/1/ViTV.m3u8?user=anhnguyen&pass=000
+#EXTINF:-1 group-title="SCTV" tvg-id="SCTV9 HD" tvg-logo="",SCTV9
+http://6688.link/YYeBl3OfTgOJc26JxjlNY6G87u0wep/1/sctv9.m3u8?user=anhnguyen&pass=000
+#EXTINF:-1 group-title="SCTV" tvg-id="SCTV11 HD" tvg-logo="",SCTV11
+http://6688.link/YYeBl3OfTgOJc26JxjlNY6G87u0wep/1/sctv11.m3u8?user=anhnguyen&pass=000
+#EXTINF:-1 group-title="SCTV" tvg-id="SCTV14 HD" tvg-logo="",SCTV14
+http://6688.link/YYeBl3OfTgOJc26JxjlNY6G87u0wep/1/sctv14.m3u8?user=anhnguyen&pass=000
+#EXTINF:-1 group-title="SCTV" tvg-id="SCTV15 HD" tvg-logo="",SCTV15
+http://6688.link/YYeBl3OfTgOJc26JxjlNY6G87u0wep/1/sctv15.m3u8?user=anhnguyen&pass=000
+#EXTINF:-1 group-title="SCTV" tvg-id="SCTV16 HD" tvg-logo="",SCTV16
+http://6688.link/YYeBl3OfTgOJc26JxjlNY6G87u0wep/1/sctv16.m3u8?user=anhnguyen&pass=000
+#EXTINF:-1 group-title="Địa Phương" tvg-id="Dia Phuong" tvg-logo="http://123.29.68.243:8080/static/channel/24.png",Vĩnh Long 1 HD
+http://6688.link/YYeBl3OfTgOJc26JxjlNY6G87u0wep/1/Vinh-Long-1-HD.m3u8?user=anhnguyen&pass=000
+#EXTINF:-1 group-title="Địa Phương" tvg-id="Dia Phuong" tvg-logo="http://123.29.68.243:8080/static/channel/28.png",Vĩnh Long 2 HD
+http://6688.link/YYeBl3OfTgOJc26JxjlNY6G87u0wep/1/Vinh-Long-2-HD.m3u8?user=anhnguyen&pass=000
+#EXTINF:-1 group-title="Địa Phương" tvg-id="Dia Phuong" tvg-logo="http://123.29.68.243:8080/static/channel/29.png",Vĩnh Long 3 HD
+http://6688.link/YYeBl3OfTgOJc26JxjlNY6G87u0wep/1/Vinh-Long-3-HD.m3u8?user=anhnguyen&pass=000
+#EXTINF:-1 group-title="Địa Phương" tvg-id="Dia Phuong" tvg-logo="http://123.29.68.243:8080/static/channel/57.png",Vĩnh Long 4 HD
+http://6688.link/YYeBl3OfTgOJc26JxjlNY6G87u0wep/1/Vinh-Long-4-HD.m3u8?user=anhnguyen&pass=000
+#EXTINF:-1 group-title="Nước Ngoài" tvg-id="Nuoc Ngoai" tvg-logo="",Blue ANT Entertainment
+http://6688.link/YYeBl3OfTgOJc26JxjlNY6G87u0wep/5/blueantent.m3u8?user=anhnguyen&pass=000
+#EXTINF:-1 group-title="Nước Ngoài" tvg-id="Nuoc Ngoai" tvg-logo="",Blue Ant Extreme
+http://6688.link/YYeBl3OfTgOJc26JxjlNY6G87u0wep/5/blueantext.m3u8?user=anhnguyen&pass=000
+#EXTINF:-1 group-title="Nước Ngoài" tvg-id="Nuoc Ngoai" tvg-logo="",KIX
+http://6688.link/YYeBl3OfTgOJc26JxjlNY6G87u0wep/5/kix.m3u8?user=anhnguyen&pass=000
+#EXTINF:-1 group-title="Nước Ngoài" tvg-id="Nuoc Ngoai" tvg-logo="",Fox Sports HD
+http://6688.link/YYeBl3OfTgOJc26JxjlNY6G87u0wep/1/FoxSport-HD.m3u8?user=anhnguyen&pass=000
+#EXTINF:-1 group-title="Nước Ngoài" tvg-id="Nuoc Ngoai" tvg-logo="",FOX Sports 2 HD
+http://6688.link/YYeBl3OfTgOJc26JxjlNY6G87u0wep/1/Fox-Sport-2-HD.m3u8?user=anhnguyen&pass=000
+#EXTINF:-1 group-title="Nước Ngoài" tvg-id="Fox Sports 3 HD" tvg-logo="",FOX Sports 3 HD
+http://6688.link/YYeBl3OfTgOJc26JxjlNY6G87u0wep/5/foxsports3.m3u8?user=anhnguyen&pass=000
+#EXTINF:-1 group-title="Nước Ngoài" tvg-id="Nuoc Ngoai" tvg-logo="",Fox HD
+http://6688.link/YYeBl3OfTgOJc26JxjlNY6G87u0wep/1/foxhd.m3u8?user=anhnguyen&pass=000
+#EXTINF:-1 group-title="Nước Ngoài" tvg-id="Nuoc Ngoai" tvg-logo="",Fox Life HD
+http://6688.link/YYeBl3OfTgOJc26JxjlNY6G87u0wep/1/foxlifehd.m3u8?user=anhnguyen&pass=000
+#EXTINF:-1 group-title="Nước Ngoài" tvg-id="Nuoc Ngoai" tvg-logo="",Fox Movies Premium
+http://6688.link/YYeBl3OfTgOJc26JxjlNY6G87u0wep/1/foxmovieshd.m3u8?user=anhnguyen&pass=000
+#EXTINF:-1 group-title="Nước Ngoài" tvg-id="Nuoc Ngoai" tvg-logo="",Fox Family Movies
+http://6688.link/YYeBl3OfTgOJc26JxjlNY6G87u0wep/5/foxfamilymovies.m3u8?user=anhnguyen&pass=000
+#EXTINF:-1 group-title="Nước Ngoài" tvg-id="Nuoc Ngoai" tvg-logo="",1russia
+http://6688.link/YYeBl3OfTgOJc26JxjlNY6G87u0wep/1/1russia.m3u8?user=anhnguyen&pass=000
+#EXTINF:-1 group-title="Nước Ngoài" tvg-id="Nuoc Ngoai" tvg-logo="",AFC HD
+http://6688.link/YYeBl3OfTgOJc26JxjlNY6G87u0wep/1/AFC-HD.m3u8?user=anhnguyen&pass=000
+#EXTINF:-1 group-title="Nước Ngoài" tvg-id="Nuoc Ngoai" tvg-logo="",rai
+http://6688.link/YYeBl3OfTgOJc26JxjlNY6G87u0wep/1/rai.m3u8?user=anhnguyen&pass=000
+#EXTINF:-1 group-title="Nước Ngoài" tvg-id="Red By HBO HD" tvg-logo="",Red by HBO HD
+http://6688.link/YYeBl3OfTgOJc26JxjlNY6G87u0wep/1/redbyhbohd.m3u8?user=anhnguyen&pass=000
+#EXTINF:-1 group-title="Nước Ngoài" tvg-id="Nuoc Ngoai" tvg-logo="",rt
+http://6688.link/YYeBl3OfTgOJc26JxjlNY6G87u0wep/1/rt.m3u8?user=anhnguyen&pass=000
+#EXTINF:-1 group-title="Nước Ngoài" tvg-id="Nuoc Ngoai" tvg-logo="",arirang
+http://6688.link/YYeBl3OfTgOJc26JxjlNY6G87u0wep/1/arirang.m3u8?user=anhnguyen&pass=000
+#EXTINF:-1 group-title="Nước Ngoài" tvg-id="Nuoc Ngoai" tvg-logo="",Australia Plus
+http://6688.link/YYeBl3OfTgOJc26JxjlNY6G87u0wep/1/AustraliaPlus-(A+).m3u8?user=anhnguyen&pass=000
+#EXTINF:-1 group-title="Nước Ngoài" tvg-id="AXN HD" tvg-logo="",AXN HD
+http://6688.link/YYeBl3OfTgOJc26JxjlNY6G87u0wep/1/AXN-HD.m3u8?user=anhnguyen&pass=000
+#EXTINF:-1 group-title="Nước Ngoài" tvg-id="HBO HD" tvg-logo="",HBO HD
+http://6688.link/YYeBl3OfTgOJc26JxjlNY6G87u0wep/1/hbohd.m3u8?user=anhnguyen&pass=000
+#EXTINF:-1 group-title="Nước Ngoài" tvg-id="Nuoc Ngoai" tvg-logo="",Warner HD
+http://6688.link/YYeBl3OfTgOJc26JxjlNY6G87u0wep/1/WarnerHD.m3u8?user=anhnguyen&pass=000
+#EXTINF:-1 group-title="Nước Ngoài" tvg-id="Nuoc Ngoai" tvg-logo="",BabyFirst
+http://6688.link/YYeBl3OfTgOJc26JxjlNY6G87u0wep/1/BabyFirst.m3u8?user=anhnguyen&pass=000
+#EXTINF:-1 group-title="Nước Ngoài" tvg-id="Nuoc Ngoai" tvg-logo="",babytvhd
+http://6688.link/YYeBl3OfTgOJc26JxjlNY6G87u0wep/1/babytvhd.m3u8?user=anhnguyen&pass=000
+#EXTINF:-1 group-title="Nước Ngoài" tvg-id="Nuoc Ngoai" tvg-logo="",bbc
+http://6688.link/YYeBl3OfTgOJc26JxjlNY6G87u0wep/1/bbc.m3u8?user=anhnguyen&pass=000
+#EXTINF:-1 group-title="Nước Ngoài" tvg-id="Nuoc Ngoai" tvg-logo="",BBC Earth
+http://6688.link/YYeBl3OfTgOJc26JxjlNY6G87u0wep/5/bbcearth.m3u8?user=anhnguyen&pass=000
+#EXTINF:-1 group-title="Nước Ngoài" tvg-id="Nuoc Ngoai" tvg-logo="",BBC World News
+http://6688.link/YYeBl3OfTgOJc26JxjlNY6G87u0wep/1/BBC-World-News.m3u8?user=anhnguyen&pass=000
+#EXTINF:-1 group-title="Nước Ngoài" tvg-id="Nuoc Ngoai" tvg-logo="",Bloomberg HD
+http://6688.link/YYeBl3OfTgOJc26JxjlNY6G87u0wep/1/Bloomberg-HD.m3u8?user=anhnguyen&pass=000
+#EXTINF:-1 group-title="Nước Ngoài" tvg-id="Nuoc Ngoai" tvg-logo="",Boomerang
+http://6688.link/YYeBl3OfTgOJc26JxjlNY6G87u0wep/1/Boomerang.m3u8?user=anhnguyen&pass=000
+#EXTINF:-1 group-title="Nước Ngoài" tvg-id="Nuoc Ngoai" tvg-logo="",Animal Plannet HD
+http://6688.link/YYeBl3OfTgOJc26JxjlNY6G87u0wep/1/Animal-Plannet-HD.m3u8?user=anhnguyen&pass=000
+#EXTINF:-1 group-title="Nước Ngoài" tvg-id="Nuoc Ngoai" tvg-logo="",Cartoon Network HD
+http://6688.link/YYeBl3OfTgOJc26JxjlNY6G87u0wep/1/CartoonNetwork-HD.m3u8?user=anhnguyen&pass=000
+#EXTINF:-1 group-title="Nước Ngoài" tvg-id="Nuoc Ngoai" tvg-logo="",Cinemaworld
+http://6688.link/YYeBl3OfTgOJc26JxjlNY6G87u0wep/5/cinemaworld.m3u8?user=anhnguyen&pass=000
+#EXTINF:-1 group-title="Nước Ngoài" tvg-id="Nuoc Ngoai" tvg-logo="",cctv10
+http://6688.link/YYeBl3OfTgOJc26JxjlNY6G87u0wep/1/cctv10.m3u8?user=anhnguyen&pass=000
+#EXTINF:-1 group-title="Nước Ngoài" tvg-id="Nuoc Ngoai" tvg-logo="",cctv2
+http://6688.link/YYeBl3OfTgOJc26JxjlNY6G87u0wep/1/cctv2.m3u8?user=anhnguyen&pass=000
+#EXTINF:-1 group-title="Nước Ngoài" tvg-id="Nuoc Ngoai" tvg-logo="",Channel News Asia HD
+http://6688.link/YYeBl3OfTgOJc26JxjlNY6G87u0wep/1/Channel-News-Asia-HD.m3u8?user=anhnguyen&pass=000
+#EXTINF:-1 group-title="Nước Ngoài" tvg-id="Nuoc Ngoai" tvg-logo="",Channel V HD
+http://6688.link/YYeBl3OfTgOJc26JxjlNY6G87u0wep/1/channelvhd.m3u8?user=anhnguyen&pass=000
+#EXTINF:-1 group-title="Nước Ngoài" tvg-id="Nuoc Ngoai" tvg-logo="",ClubbingTV
+http://6688.link/YYeBl3OfTgOJc26JxjlNY6G87u0wep/1/ClubbingTV.m3u8?user=anhnguyen&pass=000
+#EXTINF:-1 group-title="Nước Ngoài" tvg-id="Nuoc Ngoai" tvg-logo="",CNN HD
+http://6688.link/YYeBl3OfTgOJc26JxjlNY6G87u0wep/1/CNN-HD.m3u8?user=anhnguyen&pass=000
+#EXTINF:-1 group-title="Nước Ngoài" tvg-id="Nuoc Ngoai" tvg-logo="",DaVinci HD
+http://6688.link/YYeBl3OfTgOJc26JxjlNY6G87u0wep/1/DaVinci-HD.m3u8?user=anhnguyen&pass=000
+#EXTINF:-1 group-title="Nước Ngoài" tvg-id="Nuoc Ngoai" tvg-logo="",Discovery HD
+http://6688.link/YYeBl3OfTgOJc26JxjlNY6G87u0wep/1/Discovery(HD).m3u8?user=anhnguyen&pass=000
+#EXTINF:-1 group-title="Nước Ngoài" tvg-id="Nuoc Ngoai" tvg-logo="",Discovery Asia
+http://6688.link/YYeBl3OfTgOJc26JxjlNY6G87u0wep/5/discoveryasia.m3u8?user=anhnguyen&pass=000
+#EXTINF:-1 group-title="Nước Ngoài" tvg-id="Nuoc Ngoai" tvg-logo="",Disney HD
+http://6688.link/YYeBl3OfTgOJc26JxjlNY6G87u0wep/1/disneyhd.m3u8?user=anhnguyen&pass=000
+#EXTINF:-1 group-title="Nước Ngoài" tvg-id="Nuoc Ngoai" tvg-logo="",Disney Junior
+http://6688.link/YYeBl3OfTgOJc26JxjlNY6G87u0wep/1/disneyjunior.m3u8?user=anhnguyen&pass=000
+#EXTINF:-1 group-title="Nước Ngoài" tvg-id="Nuoc Ngoai" tvg-logo="",DW HD
+http://6688.link/YYeBl3OfTgOJc26JxjlNY6G87u0wep/1/DW-HD.m3u8?user=anhnguyen&pass=000
+#EXTINF:-1 group-title="Nước Ngoài" tvg-id="Nuoc Ngoai" tvg-logo="",France24
+http://6688.link/YYeBl3OfTgOJc26JxjlNY6G87u0wep/1/France24.m3u8?user=anhnguyen&pass=000
+#EXTINF:-1 group-title="Nước Ngoài" tvg-id="Nuoc Ngoai" tvg-logo="",FTV HD
+http://6688.link/YYeBl3OfTgOJc26JxjlNY6G87u0wep/1/FTV(HD).m3u8?user=anhnguyen&pass=000
+#EXTINF:-1 group-title="Nước Ngoài" tvg-id="Nuoc Ngoai" tvg-logo="",KBSWorld
+http://6688.link/YYeBl3OfTgOJc26JxjlNY6G87u0wep/1/kbsworld.m3u8?user=anhnguyen&pass=000
+#EXTINF:-1 group-title="Nước Ngoài" tvg-id="Max By HBO HD" tvg-logo="",MaxByHBO HD
+http://6688.link/YYeBl3OfTgOJc26JxjlNY6G87u0wep/1/maxbyhbohd.m3u8?user=anhnguyen&pass=000
+#EXTINF:-1 group-title="Nước Ngoài" tvg-id="MTV HD" tvg-logo="http://123.29.68.243:8080/static/channel/79.png",MTV HD
+http://6688.link/YYeBl3OfTgOJc26JxjlNY6G87u0wep/1/MTV-HD.m3u8?user=anhnguyen&pass=000
+#EXTINF:-1 group-title="Nước Ngoài" tvg-id="Nuoc Ngoai" tvg-logo="",nbcnews
+http://6688.link/YYeBl3OfTgOJc26JxjlNY6G87u0wep/1/nbcnews.m3u8?user=anhnguyen&pass=000
+#EXTINF:-1 group-title="Nước Ngoài" tvg-id="Nuoc Ngoai" tvg-logo="",ngchd
+http://6688.link/YYeBl3OfTgOJc26JxjlNY6G87u0wep/1/ngchd.m3u8?user=anhnguyen&pass=000
+#EXTINF:-1 group-title="Nước Ngoài" tvg-id="Nuoc Ngoai" tvg-logo="",ngphd
+http://6688.link/YYeBl3OfTgOJc26JxjlNY6G87u0wep/1/ngphd.m3u8?user=anhnguyen&pass=000
+#EXTINF:-1 group-title="Nước Ngoài" tvg-id="Nuoc Ngoai" tvg-logo="",ngwhd
+http://6688.link/YYeBl3OfTgOJc26JxjlNY6G87u0wep/1/ngwhd.m3u8?user=anhnguyen&pass=000
+#EXTINF:-1 group-title="Nước Ngoài" tvg-id="Nuoc Ngoai" tvg-logo="",NHK World Japan HD
+http://6688.link/YYeBl3OfTgOJc26JxjlNY6G87u0wep/1/NHK-World-Japan-HD.m3u8?user=anhnguyen&pass=000
+#EXTINF:-1 group-title="Nước Ngoài" tvg-id="Nuoc Ngoai" tvg-logo="",nhkjapan
+http://6688.link/YYeBl3OfTgOJc26JxjlNY6G87u0wep/1/nhkjapan.m3u8?user=anhnguyen&pass=000
+#EXTINF:-1 group-title="Nước Ngoài" tvg-id="Nuoc Ngoai" tvg-logo="",Outdoor HD
+http://6688.link/YYeBl3OfTgOJc26JxjlNY6G87u0wep/1/Outdoor-HD.m3u8?user=anhnguyen&pass=000
+#EXTINF:-1 group-title="Nước Ngoài" tvg-id="Nuoc Ngoai" tvg-logo="",pip
+http://6688.link/YYeBl3OfTgOJc26JxjlNY6G87u0wep/1/pip.m3u8?user=anhnguyen&pass=000
+#EXTINF:-1 group-title="Nước Ngoài" tvg-id="Nuoc Ngoai" tvg-logo="",TLC HD
+http://6688.link/YYeBl3OfTgOJc26JxjlNY6G87u0wep/1/tlchd.m3u8?user=anhnguyen&pass=000
+#EXTINF:-1 group-title="Nước Ngoài" tvg-id="Nuoc Ngoai" tvg-logo="http://123.29.68.243:8080/static/channel/65.png",TV5MONDE
+http://6688.link/YYeBl3OfTgOJc26JxjlNY6G87u0wep/1/TV5-MONDE.m3u8?user=anhnguyen&pass=000
+#EXTINF:-1 tvg-id="Serie A" tvg-logo="",Serie A 1
+http://6688.link/YYeBl3OfTgOJc26JxjlNY6G87u0wep/5/seriea01.m3u8?user=anhnguyen&pass=000
+#EXTINF:-1 tvg-id="Serie A" tvg-logo="",Serie A 2
+http://6688.link/YYeBl3OfTgOJc26JxjlNY6G87u0wep/5/seriea02.m3u8?user=anhnguyen&pass=000
+#EXTINF:-1 tvg-id="Serie A" tvg-logo="",Serie A 3
+http://6688.link/YYeBl3OfTgOJc26JxjlNY6G87u0wep/5/seriea03.m3u8?user=anhnguyen&pass=000
+#EXTINF:-1 tvg-id="Serie A" tvg-logo="",Serie A 4
+http://6688.link/YYeBl3OfTgOJc26JxjlNY6G87u0wep/5/seriea04.m3u8?user=anhnguyen&pass=000
+#EXTINF:-1 tvg-id="Serie A" tvg-logo="",Serie A 5
+http://6688.link/YYeBl3OfTgOJc26JxjlNY6G87u0wep/5/seriea05.m3u8?user=anhnguyen&pass=000
+#EXTINF:-1 tvg-id="Serie A" tvg-logo="",Serie A 6
+http://6688.link/YYeBl3OfTgOJc26JxjlNY6G87u0wep/5/seriea06.m3u8?user=anhnguyen&pass=000
+#EXTINF:-1 tvg-id="Serie A" tvg-logo="",Serie A 7
+http://6688.link/YYeBl3OfTgOJc26JxjlNY6G87u0wep/5/seriea07.m3u8?user=anhnguyen&pass=000
+#EXTINF:-1 tvg-id="Serie A" tvg-logo="",Serie A 8
+http://6688.link/YYeBl3OfTgOJc26JxjlNY6G87u0wep/5/seriea08.m3u8?user=anhnguyen&pass=000
+#EXTINF:-1 tvg-id="Serie A" tvg-logo="",Serie A 9
+http://6688.link/YYeBl3OfTgOJc26JxjlNY6G87u0wep/5/seriea09.m3u8?user=anhnguyen&pass=000
+#EXTINF:-1 tvg-id="Serie A" tvg-logo="",Serie A 10
+http://6688.link/YYeBl3OfTgOJc26JxjlNY6G87u0wep/5/seriea10.m3u8?user=anhnguyen&pass=000
+#EXTINF:-1 tvg-id="Serie A" tvg-logo="",FaCup 01
+http://6688.link/YYeBl3OfTgOJc26JxjlNY6G87u0wep/5/facup01.m3u8?user=anhnguyen&pass=000
+#EXTINF:-1 tvg-id="Serie A" tvg-logo="",FaCup 02
+http://6688.link/YYeBl3OfTgOJc26JxjlNY6G87u0wep/5/facup02.m3u8?user=anhnguyen&pass=000
+#EXTINF:-1 tvg-id="Serie A" tvg-logo="",FaCup 03
+http://6688.link/YYeBl3OfTgOJc26JxjlNY6G87u0wep/5/facup03.m3u8?user=anhnguyen&pass=000
+#EXTINF:-1 tvg-id="Serie A" tvg-logo="",FaCup 04
+http://6688.link/YYeBl3OfTgOJc26JxjlNY6G87u0wep/5/facup04.m3u8?user=anhnguyen&pass=000
+#EXTINF:-1 tvg-id="Serie A" tvg-logo="",FaCup 05
+http://6688.link/YYeBl3OfTgOJc26JxjlNY6G87u0wep/5/facup05.m3u8?user=anhnguyen&pass=000
+1"
+2.54 cm
