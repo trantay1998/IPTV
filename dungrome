@@ -250,7 +250,7 @@ udp://@225.1.1.150:30120
 udp://@225.1.1.149:30120
 #EXTINF:-1 group-title="Địa phương (HD)",BTV3 HD _ TH Bình Dương (HD 8Mbps)
 udp://@225.1.2.22:30120
-#EXTINF:-1 tvg-id="binhduong4" group-title="Địa phương" tvg-logo="http://vthanh.live/ic/119.png", Bình Dương 4 HD
+#EXTINF:-1 tvg-id="binhduong4" group-title="Địa phương (HD)" tvg-logo="http://vthanh.live/ic/119.png", Bình Dương 4 HD
 udp://@225.1.1.30:30120
 #EXTINF:-1 group-title="Địa phương (HD)",BTV9 An Viên HD (HD 8Mbps)
 udp://@225.1.2.189:30120
