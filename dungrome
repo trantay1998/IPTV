@@ -204,9 +204,9 @@ udp://@225.1.1.160:30120
 udp://@225.1.1.102:30120
 #EXTINF:-1 tvg-id="baccan" group-title="Địa phương (HD)" tvg-logo="http://vthanh.live/ic/112.png", Bắc Kạn
 udp://@225.1.1.126:30120
-#EXTINF:-1 tvg-id="" group-title="Địa phương (HD)Địa phương (HD)Địa phương (HD)Địa phương (HD)" tvg-logo="http://vthanh.live/ic/168.png", Quảng Ninh 1 HD
+#EXTINF:-1 tvg-id="" group-title="Địa phương (HD)" tvg-logo="http://vthanh.live/ic/168.png", Quảng Ninh 1 HD
 udp://@225.1.2.181:30120
-#EXTINF:-1 group-title="Địa phương (HD)Địa phương (HD)Địa phương (HD)" tvg-logo="http://tvonline.vn/wp-content/uploads/2018/07/large_bacninh.png", Bắc Ninh
+#EXTINF:-1 group-title="Địa phương (HD)" tvg-logo="http://tvonline.vn/wp-content/uploads/2018/07/large_bacninh.png", Bắc Ninh
 udp://@225.1.1.40:30120
 #EXTINF:-1 tvg-id="hanoi1" group-title="Địa phương (HD)" tvg-logo="http://vthanh.live/ic/141.png", Hà Nội 1 HD
 udp://@225.1.2.186:30120
