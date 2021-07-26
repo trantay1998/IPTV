@@ -375,19 +375,19 @@ udp://@225.1.1.51:30120
 udp://@225.1.1.140:30120
 #EXTINF:-1 group-title="Quốc Tế (HD)"tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_fox-life_152238683897.png",Fox Life HD
 udp://@225.1.2.237:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)"tvg-logo="http://singteltv.com.sg/_channels/pic_ch414.jpg",Fox Movies HD
+#EXTINF:-1 group-title="Quốc Tế (HD)"tvg-logo="https://cdn.imgbin.com/1/7/4/imgbin-fox-movies-television-channel-star-movies-logo-fox-XcFzgsgKG1c3aa3q58wFuj3Zm.jpg",Fox Movies HD
 udp://@225.1.2.239:30120
 #EXTINF:-1 group-title="Quốc Tế (HD)"tvg-logo="http://i.imgur.com/OTGc8pX.png",Fox Sports HD
 udp://@225.1.2.229:30120
 #EXTINF:-1 group-title="Quốc Tế (HD)"tvg-logo="http://i.imgur.com/TPL8d6Y.png",Fox Sports 2 HD
 udp://@225.1.1.141:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)"tvg-logo="tvg-logo="http://www.fifa55u.com/images/icon/FOXSports3.png",Fox Sports 3 HD
+#EXTINF:-1 group-title="Quốc Tế (HD)"tvg-logo="tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/2560px-Fox_sports_3_logo.svg.png",Fox Sports 3 HD
 udp://@225.1.2.242:30120
 #EXTINF:-1 group-title="Quốc Tế (HD)"tvg-logo="https://i.imgur.com/hzqtuLB.jpg" ,FX
 udp://@225.1.1.213:30120
 #EXTINF:-1 group-title="Quốc Tế (HD)"tvg-logo="http://i.imgur.com/wEqQSrc.png",HBO HD
 udp://@225.1.2.233:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="http://htvc.vn/uploads/channel/2017/02/06/9740642-logo-max-by-hbo.png",MAX by HBO HD
+#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="https://www.pngfind.com/pngs/m/683-6830253_file-maxbyhbo-max-by-hbo-logo-hd-png.png",MAX by HBO HD
 udp://@225.1.2.86:30120
 #EXTINF:-1 group-title="Quốc Tế (HD)"tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/729_300.png",KIX HD
 udp://@225.1.2.144:30120
