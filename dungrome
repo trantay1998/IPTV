@@ -276,154 +276,31 @@ udp://@225.1.1.61:30120
 udp://@225.1.1.104:30120
 #EXTINF:-1 group-title="Địa phương (HD)",THTPCT HD _ TH TP. Cần Thơ (HD 8Mbps)
 #-------------------Quốc tế HD-------------------#
-#EXTINF:-1 tvg-id="Babyfirst" group-title="Kênh quốc tế" tvg-logo="https://i.ibb.co/X5gLjLF/babyfirst-BEARTV.png",Babyfirst
-udp://@225.1.4.28:30120
-#EXTINF:-1 tvg-id="MTV Asia" group-title="Kênh quốc tế" tvg-logo="http://i.imgur.com/FeFMOxH.png",MTV
-udp://@225.1.1.245:30120
-#EXTINF:-1 tvg-id="animalhd" group-title="Kênh quốc tế" tvg-logo="http://i.imgur.com/ooy2lyY.png",Animal Planet
+#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="http://i.imgur.com/ooy2lyY.png",Animal Planet
 udp://@225.1.1.231:30120
-#EXTINF:-1 tvg-id="arirang" group-title="Kênh quốc tế" tvg-logo="http://i.imgur.com/HibfTmZ.png",Arirang
-udp://@225.1.1.231:30120
-#EXTINF:-1 tvg-id="Asian Food Channel" group-title="Kênh quốc tế" group-title="Kênh quốc tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_asian-food-channel_149759142675.png",Asian Food Channel HD
+#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="http://vthanh.live/ic/198.png", Animax HD
+udp://@225.1.1.135:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="https://mytv.com.vn/upload/channel/phpFGBS5t_60876c46c9ea0.png", Asian Food Network
 udp://@225.1.1.198:30120
-#EXTINF:-1 tvg-id="Asian Food Channel" group-title="Kênh quốc tế" group-title="Kênh quốc tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_asian-food-channel_149759142675.png",Asian Food Channel HD
-udp://@225.1.1.198:30120
-#EXTINF:-1 tvg-id="ABC AUSTRALIA" group-title="Kênh quốc tế" group-title="Kênh quốc tế" tvg-logo="http://i.imgur.com/MtCA5jr.png",ABC Australia
-udp://@225.1.2.21:30120
-#EXTINF:-1 tvg-id="axnhd" group-title="Kênh quốc tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_axn_146580810334.png",AXN HD
+#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="http://vthanh.live/ic/228.png", AXN HD
 udp://@225.1.2.225:30120
-#EXTINF:-1 tvg-id="axnhd" group-title="Kênh quốc tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_axn_146580810334.png",AXN HD
-udp://@225.1.2.225:30120
-#EXTINF:-1 tvg-id="BBC EARTH" group-title="Kênh quốc tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_bbc-earth_148379672898.jpg",BBC Earth HD
-udp://@225.1.2.24:30120
-#EXTINF:-1 tvg-id="BBC EARTH" group-title="Kênh quốc tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_bbc-earth_148379672898.jpg",BBC Earth HD
-udp://@225.1.2.24:30120
-#EXTINF:-1 tvg-id="BBC LIFESTYLE" group-title="Kênh quốc tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_bbc-lifestyle_148379742953.jpg",BBC Lifestyle
-udp://@225.1.2.52:30120
-#EXTINF:-1 tvg-id="bbcworldnews" group-title="Kênh quốc tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_bbc-news_148379779959.jpg",BBC World News
-udp://@225.1.2.74:30120
-#EXTINF:-1 tvg-id="babytvhd" group-title="Kênh quốc tế" tvg-logo="https://yt3.ggpht.com/-w1gbvReuRqM/AAAAAAAAAAI/AAAAAAAAAAA/ve40E-bIMjs/s900-c-k-no-mo-rj-c0xffffff/photo.jpg",Baby TV HD
+#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="data:image/png;base64,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", BabyTV HD
 udp://@225.1.2.146:30120
-#EXTINF:-1 tvg-id="babytvhd" group-title="Kênh quốc tế" tvg-logo="https://yt3.ggpht.com/-w1gbvReuRqM/AAAAAAAAAAI/AAAAAAAAAAA/ve40E-bIMjs/s900-c-k-no-mo-rj-c0xffffff/photo.jpg",Baby TV HD
-udp://@225.1.2.146:30120
-#EXTINF:-1 tvg-id="cartoonhd" group-title="Kênh quốc tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_cartoon-network_146581299646.png",Cartoon Network HD
+#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="http://vthanh.live/ic/207.png", BBC Cbeebies
+udp://@225.1.1.134:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)"tvg-logo="http://vthanh.live/ic/205.png", BBC Earth
+udp://@225.1.2.24:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="http://vthanh.live/ic/199.png", Boomerang HD
+udp://@225.1.1.138:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="http://vthanh.live/ic/229.png", Blue Ant Entertainment
+udp://@225.1.1.203:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="http://vthanh.live/ic/230.png", Blue Ant Extreme
+udp://@225.1.1.204:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="https://mytv.com.vn/upload/channel/179.png",CARTOON NETWORK HD
 udp://@225.1.2.231:30120
-#EXTINF:-1 tvg-id="cartoonhd" group-title="Kênh quốc tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_cartoon-network_146581299646.png",Cartoon Network HD
-udp://@225.1.2.231:30120
-#EXTINF:-1 tvg-id="Channel NewsAsia" group-title="Kênh quốc tế" tvg-logo="http://i.imgur.com/DhcvpCm.png",Channel News Asia
-udp://@225.1.1.202:30120
-#EXTINF:-1 tvg-id="channelvhd" group-title="Kênh quốc tế" tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/f/fb/Channel_V_HD.png/revision/latest?cb=20110928200720",Channel [V] HD
+#EXTINF:-1 group-title="Quốc Tế (HD)"tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/f/fb/Channel_V_HD.png/revision/latest?cb=20110928200720",Channel [V] HD
 udp://@225.1.1.188:30120
-#EXTINF:-1 tvg-id="channelvhd" group-title="Kênh quốc tế" tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/f/fb/Channel_V_HD.png/revision/latest?cb=20110928200720",Channel [V] HD
-udp://@225.1.1.188:30120
-#EXTINF:-1 tvg-id="CINEMA WORLD" group-title="Kênh quốc tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_cinemaworld_146580871725.png",Cinema World HD
+#EXTINF:-1 group-title="Quốc Tế (HD)"tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_cinemaworld_146580871725.png",Cinema World HD
 udp://@225.1.1.142:30120
-#EXTINF:-1 tvg-id="CNBC USA" group-title="Kênh quốc tế" tvg-logo="http://i.imgur.com/dSArT2c.png",CNBC
-udp://@225.1.1.227:30120
-#EXTINF:-1 tvg-id="CNN_VTVCab" group-title="Kênh quốc tế" tvg-logo="http://i.imgur.com/qTmK57R.png",CNN
-udp://@225.1.1.242:30120
-#EXTINF:-1 tvg-id="Da Vinci " group-title="Kênh quốc tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_da-vinci-learning_149759147347.png",Da Vinci Learning HD
-udp://@225.1.1.197:30120
-#EXTINF:-1 tvg-id="Da Vinci " group-title="Kênh quốc tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_da-vinci-learning_149759147347.png",Da Vinci Learning HD
-udp://@225.1.1.197:30120
-#EXTINF:-1 tvg-id="Discovery Asia-ClipTV" group-title="Kênh quốc tế" tvg-logo="https://cms.cignal.tv/Upload/Images/Discovery-Asia.png",Discovery Asia HD
-udp://@225.1.2.223:30120
-#EXTINF:-1 tvg-id="Discovery Asia-ClipTV" group-title="Kênh quốc tế" tvg-logo="https://cms.cignal.tv/Upload/Images/Discovery-Asia.png",Discovery Asia HD
-udp://@225.1.2.223:30120
-#EXTINF:-1 tvg-id="discoveryhd" group-title="Kênh quốc tế" tvg-logo="http://i.imgur.com/lB0VeoB.png",Discovery Channel
-udp://@225.1.1.238:30120
-#EXTINF:-1 tvg-id="Disney Channel" group-title="Kênh quốc tế" tvg-logo="http://i.imgur.com/Yvfpf3s.png",Disney Channel HD
-udp://@225.1.2.158:30120
-#EXTINF:-1 tvg-id="Disney Channel" group-title="Kênh quốc tế" tvg-logo="http://i.imgur.com/Yvfpf3s.png",Disney Channel HD
-udp://@225.1.2.158:30120
-#EXTINF:-1 tvg-id="Disney Junior_my" group-title="Kênh quốc tế" tvg-logo="http://i.imgur.com/pGJmJmJ.png",Disney Junior
-udp://@225.1.1.233:30120
-#EXTINF:-1 tvg-id="divahd" group-title="Kênh quốc tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_diva_149759143894.png",Diva Universal
-udp://@225.1.1.199:30120
-#EXTINF:-1 tvg-id="dw" group-title="Kênh quốc tế" tvg-logo="http://i.imgur.com/BPm4OOu.png",DW HD
-udp://@225.1.1.46:30120
-#EXTINF:-1 tvg-id="fashionhd" group-title="Kênh quốc tế" tvg-logo="https://i.imgur.com/KGVik3b.png",SCTV2-ACM
-udp://@225.1.1.234:30120
-#EXTINF:-1 tvg-id="fashionhd" group-title="Kênh quốc tế" tvg-logo="http://i.imgur.com/2gKHeDW.png",FTV HD
-udp://@225.1.2.227:30120
-#EXTINF:-1 tvg-id="fashionhd" group-title="Kênh quốc tế" tvg-logo="http://i.imgur.com/2gKHeDW.png",FTV HD
-udp://@225.1.2.227:30120
-#EXTINF:-1 tvg-id="fashionhd" group-title="Kênh quốc tế" tvg-logo="https://i.imgur.com/lOvlyjl.png",FTV UHD-4K
-udp://@225.1.1.20:30120
-#EXTINF:-1 tvg-id="foxsportshd" group-title="Kênh quốc tế" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/724_300.png",FOX HD
-udp://@225.1.1.51:30120
-#EXTINF:-1 tvg-id="foxsportshd" group-title="Kênh quốc tế" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/724_300.png",FOX HD
-udp://@225.1.1.51:30120
-#EXTINF:-1 tvg-id="foxsportshd" group-title="Kênh quốc tế" tvg-logo="http://i.imgur.com/OTGc8pX.png",Fox Sports HD
-udp://@225.1.2.229:30120
-#EXTINF:-1 tvg-id="foxsportshd" group-title="Kênh quốc tế" tvg-logo="http://i.imgur.com/OTGc8pX.png",Fox Sports HD
-udp://@225.1.2.229:30120
-#EXTINF:-1 tvg-id="foxsports2hd" group-title="Kênh quốc tế" tvg-logo="http://i.imgur.com/TPL8d6Y.png",Fox Sports 2 HD
-udp://@225.1.1.141:30120
-#EXTINF:-1 tvg-id="foxsports2hd" group-title="Kênh quốc tế" tvg-logo="http://i.imgur.com/TPL8d6Y.png",Fox Sports 2 HD
-udp://@225.1.1.141:30120
-#EXTINF:-1 tvg-id="FOX SPORTS 3-ClipTV" group-title="Kênh quốc tế" tvg-logo="http://www.fifa55u.com/images/icon/FOXSports3.png",Fox Sports 3 HD
-udp://@225.1.2.242:30120
-#EXTINF:-1 tvg-id="FOX SPORTS 3-ClipTV" group-title="Kênh quốc tế" tvg-logo="http://www.fifa55u.com/images/icon/FOXSports3.png",Fox Sports 3 HD
-udp://@225.1.2.242:30120
-#EXTINF:-1 tvg-id="Fox Movies HD-ClipTV" group-title="Kênh quốc tế" tvg-logo="http://singteltv.com.sg/_channels/pic_ch414.jpg",Fox Movies HD
-udp://@225.1.2.239:30120
-#EXTINF:-1 tvg-id="Fox Movies HD-ClipTV" group-title="Kênh quốc tế" tvg-logo="http://singteltv.com.sg/_channels/pic_ch414.jpg",Fox Movies HD
-udp://@225.1.2.239:30120
-#EXTINF:-1 tvg-id="Fox Life HD-ClipTV" group-title="Kênh quốc tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_fox-life_152238683897.png",Fox Life HD
-udp://@225.1.2.236:30120
-#EXTINF:-1 tvg-id="Fox Life HD-ClipTV" group-title="Kênh quốc tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_fox-life_152238683897.png",Fox Life HD
-udp://@225.1.2.237:30120
-#EXTINF:-1 tvg-id="France 24-ClipTV" group-title="Kênh quốc tế" tvg-logo="http://i.imgur.com/nsH5R8I.png",France 24
-udp://@225.1.2.211:30120
-#EXTINF:-1 tvg-id="hbohd" group-title="Kênh quốc tế" tvg-logo="http://i.imgur.com/wEqQSrc.png",HBO HD
-udp://@225.1.2.233:30120
-#EXTINF:-1 tvg-id="hbohd" group-title="Kênh quốc tế" tvg-logo="http://i.imgur.com/wEqQSrc.png",HBO HD
-udp://@225.1.2.233:30120
-#EXTINF:-1 tvg-id="KIX" group-title="Kênh quốc tế" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/729_300.png",KIX HD
-udp://@225.1.2.144:30120
-#EXTINF:-1 tvg-id="KIX" group-title="Kênh quốc tế" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/729_300.png",KIX HD
-udp://@225.1.2.144:30120
-#EXTINF:-1 tvg-id="maxbyhbohd" group-title="Kênh quốc tế" tvg-logo="http://htvc.vn/uploads/channel/2017/02/06/9740642-logo-max-by-hbo.png",MAX by HBO HD
+#EXTINF:-1 group-title="Quốc Tế (HD)",CINEMAX (HD 8Mbps)
 udp://@225.1.2.86:30120
-#EXTINF:-1 tvg-id="maxbyhbohd" group-title="Kênh quốc tế" tvg-logo="http://htvc.vn/uploads/channel/2017/02/06/9740642-logo-max-by-hbo.png",MAX by HBO HD
-udp://@225.1.2.86:30120
-#EXTINF:-1 tvg-id="ngchd" group-title="Kênh quốc tế" tvg-logo="http://i.imgur.com/z3SVeHB.png",National Geographic HD
-udp://@225.1.2.235:30120
-#EXTINF:-1 tvg-id="ngwhd" tvg-name="Nat Geo Wild HD (NGWHD)" tvg-logo="https://i.imgur.com/UT2Fh4x.jpg" ,Nat Geo Wild HD
-udp://@225.1.1.211:30120
-#EXTINF:-1 tvg-id="fx" tvg-name="FX" tvg-logo="https://i.imgur.com/hzqtuLB.jpg" ,FX
-udp://@225.1.1.213:30120
-#EXTINF:-1 tvg-id="NHK World" group-title="Kênh quốc tế" tvg-logo="http://i.imgur.com/4M3Y2Ok.png",NHK World
-udp://@225.1.1.47:30120
-#EXTINF:-1 tvg-id="NHK World" group-title="Kênh quốc tế" tvg-logo="http://i.imgur.com/4M3Y2Ok.png",NHK World HD
-udp://@225.1.1.47:30120
-#EXTINF:-1 tvg-id="Outdoor Channel HD" group-title="Kênh quốc tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_outdoor-channel_149759145138.png",Outdoor Channel HD
-udp://@225.1.2.215:30120
-#EXTINF:-1 tvg-id="Outdoor Channel HD" group-title="Kênh quốc tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_outdoor-channel_149759145138.png",Outdoor Channel HD
-udp://@225.1.2.215:30120
-#EXTINF:-1 tvg-id="redbyhbohd" group-title="Kênh quốc tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_red-by-hbo_146590145963.png",RED by HBO HD
-udp://@225.1.1.93:30120
-#EXTINF:-1 tvg-id="redbyhbohd" group-title="Kênh quốc tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_red-by-hbo_146590145963.png",RED by HBO HD
-udp://@225.1.1.93:30120
-#EXTINF:-1 tvg-id="Travel & Living (TLC)" group-title="Kênh quốc tế" tvg-logo="http://i.imgur.com/TInMfsC.png",TLC
-udp://@225.1.1.236:30120
-#EXTINF:-1 tvg-id="Travel & Living (TLC)" group-title="Kênh quốc tế" tvg-logo="http://i.imgur.com/TInMfsC.png",TLC
-udp://@225.1.1.236:30120
-#EXTINF:-1 tvg-id="TV5 MONDE" group-title="Kênh quốc tế" tvg-logo="http://i.imgur.com/FE0h0Cq.png",TV5Monde Asia
-udp://@225.1.1.200:30120
-#EXTINF:-1 tvg-id="WARNER TV" group-title="Kênh quốc tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_warner-tv_146581284899.png",Warner Bros TV HD
-udp://@225.1.1.139:30120
-#EXTINF:-1 tvg-id="WARNER TV" group-title="Kênh quốc tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_warner-tv_146581284899.png",Warner Bros TV HD
-udp://@225.1.1.140:30120
-
-#EXTINF:-1 tvg-id="Blue Ant Entertainment" group-title="Kênh quốc tế" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a0/BLUE-ANT-ENTERTAINMENT-LOGO-BLK_CMYK.jpg",Blue Ant Entertainment
-udp://@225.1.1.203:30120
-#EXTINF:-1 tvg-id="Blue Ant Entertainment" group-title="Kênh quốc tế" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a0/BLUE-ANT-ENTERTAINMENT-LOGO-BLK_CMYK.jpg",Blue Ant Entertainment
-udp://@225.1.1.203:30120
-
-#EXTINF:-1 tvg-id="Blue Ant Extreme" group-title="Kênh quốc tế" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7d/BAM-Extreme-LOGO-B_CMYK.jpg",Blue Ant Extreme
-udp://@225.1.1.204:30120
-#EXTINF:-1 tvg-id="Blue Ant Extreme" group-title="Kênh quốc tế" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7d/BAM-Extreme-LOGO-B_CMYK.jpg",Blue Ant Extreme
-udp://@225.1.1.204:30120
-
