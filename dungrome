@@ -276,91 +276,154 @@ udp://@225.1.1.61:30120
 udp://@225.1.1.104:30120
 #EXTINF:-1 group-title="Địa phương (HD)",THTPCT HD _ TH TP. Cần Thơ (HD 8Mbps)
 #-------------------Quốc tế HD-------------------#
-#EXTINF:-1 tvg-id="animalhd" group-title="Khám phá" tvg-logo="http://vthanh.live/ic/222.png", Animal Planet
+#EXTINF:-1 tvg-id="Babyfirst" group-title="Kênh quốc tế" tvg-logo="https://i.ibb.co/X5gLjLF/babyfirst-BEARTV.png",Babyfirst
+udp://@225.1.4.28:30120
+#EXTINF:-1 tvg-id="MTV Asia" group-title="Kênh quốc tế" tvg-logo="http://i.imgur.com/FeFMOxH.png",MTV
+udp://@225.1.1.245:30120
+#EXTINF:-1 tvg-id="animalhd" group-title="Kênh quốc tế" tvg-logo="http://i.imgur.com/ooy2lyY.png",Animal Planet
 udp://@225.1.1.231:30120
-#EXTINF:-1 tvg-id="animaxhd" group-title="Hoạt hình" tvg-logo="http://vthanh.live/ic/198.png", Animax HD
-udp://@225.1.1.135:30120
-#EXTINF:-1 tvg-id="afnhd" group-title="Ẩm thực" tvg-logo="http://vthanh.live/ic/221.png", Asian Food Network
+#EXTINF:-1 tvg-id="arirang" group-title="Kênh quốc tế" tvg-logo="http://i.imgur.com/HibfTmZ.png",Arirang
+udp://@225.1.1.231:30120
+#EXTINF:-1 tvg-id="Asian Food Channel" group-title="Kênh quốc tế" group-title="Kênh quốc tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_asian-food-channel_149759142675.png",Asian Food Channel HD
 udp://@225.1.1.198:30120
-#EXTINF:-1 tvg-id="axnhd" group-title="Giải trí" tvg-logo="http://vthanh.live/ic/228.png", AXN HD
+#EXTINF:-1 tvg-id="Asian Food Channel" group-title="Kênh quốc tế" group-title="Kênh quốc tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_asian-food-channel_149759142675.png",Asian Food Channel HD
+udp://@225.1.1.198:30120
+#EXTINF:-1 tvg-id="ABC AUSTRALIA" group-title="Kênh quốc tế" group-title="Kênh quốc tế" tvg-logo="http://i.imgur.com/MtCA5jr.png",ABC Australia
+udp://@225.1.2.21:30120
+#EXTINF:-1 tvg-id="axnhd" group-title="Kênh quốc tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_axn_146580810334.png",AXN HD
 udp://@225.1.2.225:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)"tvg-logo="https://yt3.ggpht.com/-w1gbvReuRqM/AAAAAAAAAAI/AAAAAAAAAAA/ve40E-bIMjs/s900-c-k-no-mo-rj-c0xffffff/photo.jpg", Baby TV HD
-udp://@225.1.2.146:30120
-#EXTINF:-1 tvg-id="cbeebies" group-title="BBC" tvg-logo="http://vthanh.live/ic/207.png", BBC Cbeebies
-udp://@225.1.1.134:30120
-#EXTINF:-1 tvg-id="bbcearth" group-title="BBC" tvg-logo="http://vthanh.live/ic/205.png", BBC Earth
+#EXTINF:-1 tvg-id="axnhd" group-title="Kênh quốc tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_axn_146580810334.png",AXN HD
+udp://@225.1.2.225:30120
+#EXTINF:-1 tvg-id="BBC EARTH" group-title="Kênh quốc tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_bbc-earth_148379672898.jpg",BBC Earth HD
 udp://@225.1.2.24:30120
-#EXTINF:-1 tvg-id="boomerang" group-title="Hoạt hình" tvg-logo="http://vthanh.live/ic/199.png", Boomerang HD
-udp://@225.1.1.138:30120
-#EXTINF:-1 tvg-id="blueantent" group-title="Giải trí" tvg-logo="http://vthanh.live/ic/229.png", Blue Ant Entertainment
-udp://@225.1.1.203:30120
-#EXTINF:-1 tvg-id="blueantext" group-title="Giải trí" tvg-logo="http://vthanh.live/ic/230.png", Blue Ant Extreme
-udp://@225.1.1.204:30120
-#EXTINF:-1 tvg-id="cartoonhd" group-title="Hoạt hình" tvg-logo="http://vthanh.live/ic/200.png", Cartoon Network HD
+#EXTINF:-1 tvg-id="BBC EARTH" group-title="Kênh quốc tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_bbc-earth_148379672898.jpg",BBC Earth HD
+udp://@225.1.2.24:30120
+#EXTINF:-1 tvg-id="BBC LIFESTYLE" group-title="Kênh quốc tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_bbc-lifestyle_148379742953.jpg",BBC Lifestyle
+udp://@225.1.2.52:30120
+#EXTINF:-1 tvg-id="bbcworldnews" group-title="Kênh quốc tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_bbc-news_148379779959.jpg",BBC World News
+udp://@225.1.2.74:30120
+#EXTINF:-1 tvg-id="babytvhd" group-title="Kênh quốc tế" tvg-logo="https://yt3.ggpht.com/-w1gbvReuRqM/AAAAAAAAAAI/AAAAAAAAAAA/ve40E-bIMjs/s900-c-k-no-mo-rj-c0xffffff/photo.jpg",Baby TV HD
+udp://@225.1.2.146:30120
+#EXTINF:-1 tvg-id="babytvhd" group-title="Kênh quốc tế" tvg-logo="https://yt3.ggpht.com/-w1gbvReuRqM/AAAAAAAAAAI/AAAAAAAAAAA/ve40E-bIMjs/s900-c-k-no-mo-rj-c0xffffff/photo.jpg",Baby TV HD
+udp://@225.1.2.146:30120
+#EXTINF:-1 tvg-id="cartoonhd" group-title="Kênh quốc tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_cartoon-network_146581299646.png",Cartoon Network HD
 udp://@225.1.2.231:30120
-#EXTINF:-1 tvg-id="channelvhd" group-title="Giải trí" tvg-logo="http://vthanh.live/ic/231.png", V HD
+#EXTINF:-1 tvg-id="cartoonhd" group-title="Kênh quốc tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_cartoon-network_146581299646.png",Cartoon Network HD
+udp://@225.1.2.231:30120
+#EXTINF:-1 tvg-id="Channel NewsAsia" group-title="Kênh quốc tế" tvg-logo="http://i.imgur.com/DhcvpCm.png",Channel News Asia
+udp://@225.1.1.202:30120
+#EXTINF:-1 tvg-id="channelvhd" group-title="Kênh quốc tế" tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/f/fb/Channel_V_HD.png/revision/latest?cb=20110928200720",Channel [V] HD
 udp://@225.1.1.188:30120
-#EXTINF:-1 tvg-id="cinemaworldhd" group-title="Giải trí" tvg-logo="http://vthanh.live/ic/232.png", CinemaWorld
+#EXTINF:-1 tvg-id="channelvhd" group-title="Kênh quốc tế" tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/f/fb/Channel_V_HD.png/revision/latest?cb=20110928200720",Channel [V] HD
+udp://@225.1.1.188:30120
+#EXTINF:-1 tvg-id="CINEMA WORLD" group-title="Kênh quốc tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_cinemaworld_146580871725.png",Cinema World HD
 udp://@225.1.1.142:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)",CINEMAX (HD 8Mbps)
-udp://@225.1.2.86:30120
-#EXTINF:-1 tvg-id="davinci" group-title="Khoa học" tvg-logo="http://vthanh.live/ic/204.png", Da Vinci HD
+#EXTINF:-1 tvg-id="CNBC USA" group-title="Kênh quốc tế" tvg-logo="http://i.imgur.com/dSArT2c.png",CNBC
+udp://@225.1.1.227:30120
+#EXTINF:-1 tvg-id="CNN_VTVCab" group-title="Kênh quốc tế" tvg-logo="http://i.imgur.com/qTmK57R.png",CNN
+udp://@225.1.1.242:30120
+#EXTINF:-1 tvg-id="Da Vinci " group-title="Kênh quốc tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_da-vinci-learning_149759147347.png",Da Vinci Learning HD
 udp://@225.1.1.197:30120
-#EXTINF:-1 tvg-id="discoveryasiahd" group-title="Khám phá" tvg-logo="http://vthanh.live/ic/224.png", Discovery Asia
+#EXTINF:-1 tvg-id="Da Vinci " group-title="Kênh quốc tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_da-vinci-learning_149759147347.png",Da Vinci Learning HD
+udp://@225.1.1.197:30120
+#EXTINF:-1 tvg-id="Discovery Asia-ClipTV" group-title="Kênh quốc tế" tvg-logo="https://cms.cignal.tv/Upload/Images/Discovery-Asia.png",Discovery Asia HD
 udp://@225.1.2.223:30120
-#EXTINF:-1 tvg-id="discoveryhd" group-title="Khám phá" tvg-logo="http://vthanh.live/ic/223.png", Discovery
+#EXTINF:-1 tvg-id="Discovery Asia-ClipTV" group-title="Kênh quốc tế" tvg-logo="https://cms.cignal.tv/Upload/Images/Discovery-Asia.png",Discovery Asia HD
+udp://@225.1.2.223:30120
+#EXTINF:-1 tvg-id="discoveryhd" group-title="Kênh quốc tế" tvg-logo="http://i.imgur.com/lB0VeoB.png",Discovery Channel
 udp://@225.1.1.238:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)"tvg-logo="http://i.imgur.com/pGJmJmJ.png", Disney Junior
-udp://@225.1.1.110:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)",Disney Junior (HD 8Mbps)
+#EXTINF:-1 tvg-id="Disney Channel" group-title="Kênh quốc tế" tvg-logo="http://i.imgur.com/Yvfpf3s.png",Disney Channel HD
+udp://@225.1.2.158:30120
+#EXTINF:-1 tvg-id="Disney Channel" group-title="Kênh quốc tế" tvg-logo="http://i.imgur.com/Yvfpf3s.png",Disney Channel HD
+udp://@225.1.2.158:30120
+#EXTINF:-1 tvg-id="Disney Junior_my" group-title="Kênh quốc tế" tvg-logo="http://i.imgur.com/pGJmJmJ.png",Disney Junior
 udp://@225.1.1.233:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)",Dreamworks (HD 8Mbps)
-udp://@225.1.1.136:30120
-#EXTINF:-1 tvg-id="dw" group-title="Quốc tế" tvg-logo="http://vthanh.live/ic/215.png", DW
+#EXTINF:-1 tvg-id="divahd" group-title="Kênh quốc tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_diva_149759143894.png",Diva Universal
+udp://@225.1.1.199:30120
+#EXTINF:-1 tvg-id="dw" group-title="Kênh quốc tế" tvg-logo="http://i.imgur.com/BPm4OOu.png",DW HD
 udp://@225.1.1.46:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)"tvg-logo="http://i.imgur.com/2gKHeDW.png", FTV HD
-udp://@225.1.2.232:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)"tvg-logo="https://i.imgur.com/lOvlyjl.png", FTV UHD-4K
-udp://@225.1.2.234:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/724_300.png", FOX HD
+#EXTINF:-1 tvg-id="fashionhd" group-title="Kênh quốc tế" tvg-logo="https://i.imgur.com/KGVik3b.png",SCTV2-ACM
+udp://@225.1.1.234:30120
+#EXTINF:-1 tvg-id="fashionhd" group-title="Kênh quốc tế" tvg-logo="http://i.imgur.com/2gKHeDW.png",FTV HD
+udp://@225.1.2.227:30120
+#EXTINF:-1 tvg-id="fashionhd" group-title="Kênh quốc tế" tvg-logo="http://i.imgur.com/2gKHeDW.png",FTV HD
+udp://@225.1.2.227:30120
+#EXTINF:-1 tvg-id="fashionhd" group-title="Kênh quốc tế" tvg-logo="https://i.imgur.com/lOvlyjl.png",FTV UHD-4K
+udp://@225.1.1.20:30120
+#EXTINF:-1 tvg-id="foxsportshd" group-title="Kênh quốc tế" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/724_300.png",FOX HD
 udp://@225.1.1.51:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)",Fox Family Movies (HD 8Mbps)
-udp://@225.1.1.140:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)"tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_fox-life_152238683897.png", Fox Life HD
-udp://@225.1.2.237:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)"tvg-logo="http://singteltv.com.sg/_channels/pic_ch414.jpg", Fox Movies HD
-udp://@225.1.2.239:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)"tvg-logo="http://i.imgur.com/OTGc8pX.png", Fox Sports HD
+#EXTINF:-1 tvg-id="foxsportshd" group-title="Kênh quốc tế" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/724_300.png",FOX HD
+udp://@225.1.1.51:30120
+#EXTINF:-1 tvg-id="foxsportshd" group-title="Kênh quốc tế" tvg-logo="http://i.imgur.com/OTGc8pX.png",Fox Sports HD
 udp://@225.1.2.229:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)"tvg-logo="http://i.imgur.com/TPL8d6Y.png", Fox Sports 2 HD
+#EXTINF:-1 tvg-id="foxsportshd" group-title="Kênh quốc tế" tvg-logo="http://i.imgur.com/OTGc8pX.png",Fox Sports HD
+udp://@225.1.2.229:30120
+#EXTINF:-1 tvg-id="foxsports2hd" group-title="Kênh quốc tế" tvg-logo="http://i.imgur.com/TPL8d6Y.png",Fox Sports 2 HD
 udp://@225.1.1.141:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)"tvg-logo="http://www.fifa55u.com/images/icon/FOXSports3.png", Fox Sports 3 HD
+#EXTINF:-1 tvg-id="foxsports2hd" group-title="Kênh quốc tế" tvg-logo="http://i.imgur.com/TPL8d6Y.png",Fox Sports 2 HD
+udp://@225.1.1.141:30120
+#EXTINF:-1 tvg-id="FOX SPORTS 3-ClipTV" group-title="Kênh quốc tế" tvg-logo="http://www.fifa55u.com/images/icon/FOXSports3.png",Fox Sports 3 HD
 udp://@225.1.2.242:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)",FX (HD 8Mbps)
-udp://@225.1.1.213:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)",tvg-logo="http://i.imgur.com/wEqQSrc.png", HBO HD
+#EXTINF:-1 tvg-id="FOX SPORTS 3-ClipTV" group-title="Kênh quốc tế" tvg-logo="http://www.fifa55u.com/images/icon/FOXSports3.png",Fox Sports 3 HD
+udp://@225.1.2.242:30120
+#EXTINF:-1 tvg-id="Fox Movies HD-ClipTV" group-title="Kênh quốc tế" tvg-logo="http://singteltv.com.sg/_channels/pic_ch414.jpg",Fox Movies HD
+udp://@225.1.2.239:30120
+#EXTINF:-1 tvg-id="Fox Movies HD-ClipTV" group-title="Kênh quốc tế" tvg-logo="http://singteltv.com.sg/_channels/pic_ch414.jpg",Fox Movies HD
+udp://@225.1.2.239:30120
+#EXTINF:-1 tvg-id="Fox Life HD-ClipTV" group-title="Kênh quốc tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_fox-life_152238683897.png",Fox Life HD
+udp://@225.1.2.236:30120
+#EXTINF:-1 tvg-id="Fox Life HD-ClipTV" group-title="Kênh quốc tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_fox-life_152238683897.png",Fox Life HD
+udp://@225.1.2.237:30120
+#EXTINF:-1 tvg-id="France 24-ClipTV" group-title="Kênh quốc tế" tvg-logo="http://i.imgur.com/nsH5R8I.png",France 24
+udp://@225.1.2.211:30120
+#EXTINF:-1 tvg-id="hbohd" group-title="Kênh quốc tế" tvg-logo="http://i.imgur.com/wEqQSrc.png",HBO HD
 udp://@225.1.2.233:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)",HBO (HD 12Mbps)
-udp://@225.1.4.90:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)"tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/729_300.png", KIX HD
+#EXTINF:-1 tvg-id="hbohd" group-title="Kênh quốc tế" tvg-logo="http://i.imgur.com/wEqQSrc.png",HBO HD
+udp://@225.1.2.233:30120
+#EXTINF:-1 tvg-id="KIX" group-title="Kênh quốc tế" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/729_300.png",KIX HD
 udp://@225.1.2.144:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)"tvg-logo="http://i.imgur.com/z3SVeHB.png", National Geographic HD
+#EXTINF:-1 tvg-id="KIX" group-title="Kênh quốc tế" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/729_300.png",KIX HD
+udp://@225.1.2.144:30120
+#EXTINF:-1 tvg-id="maxbyhbohd" group-title="Kênh quốc tế" tvg-logo="http://htvc.vn/uploads/channel/2017/02/06/9740642-logo-max-by-hbo.png",MAX by HBO HD
+udp://@225.1.2.86:30120
+#EXTINF:-1 tvg-id="maxbyhbohd" group-title="Kênh quốc tế" tvg-logo="http://htvc.vn/uploads/channel/2017/02/06/9740642-logo-max-by-hbo.png",MAX by HBO HD
+udp://@225.1.2.86:30120
+#EXTINF:-1 tvg-id="ngchd" group-title="Kênh quốc tế" tvg-logo="http://i.imgur.com/z3SVeHB.png",National Geographic HD
 udp://@225.1.2.235:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)",NAT GEO WILD (HD 8Mbps)
+#EXTINF:-1 tvg-id="ngwhd" tvg-name="Nat Geo Wild HD (NGWHD)" tvg-logo="https://i.imgur.com/UT2Fh4x.jpg" ,Nat Geo Wild HD
 udp://@225.1.1.211:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)",NHK WORLD JAPAN (HD 8Mbps)
+#EXTINF:-1 tvg-id="fx" tvg-name="FX" tvg-logo="https://i.imgur.com/hzqtuLB.jpg" ,FX
+udp://@225.1.1.213:30120
+#EXTINF:-1 tvg-id="NHK World" group-title="Kênh quốc tế" tvg-logo="http://i.imgur.com/4M3Y2Ok.png",NHK World
 udp://@225.1.1.47:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)"tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_outdoor-channel_149759145138.png", Outdoor Channel HD
+#EXTINF:-1 tvg-id="NHK World" group-title="Kênh quốc tế" tvg-logo="http://i.imgur.com/4M3Y2Ok.png",NHK World HD
+udp://@225.1.1.47:30120
+#EXTINF:-1 tvg-id="Outdoor Channel HD" group-title="Kênh quốc tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_outdoor-channel_149759145138.png",Outdoor Channel HD
 udp://@225.1.2.215:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)",TLC (HD 8Mbps)
+#EXTINF:-1 tvg-id="Outdoor Channel HD" group-title="Kênh quốc tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_outdoor-channel_149759145138.png",Outdoor Channel HD
+udp://@225.1.2.215:30120
+#EXTINF:-1 tvg-id="redbyhbohd" group-title="Kênh quốc tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_red-by-hbo_146590145963.png",RED by HBO HD
+udp://@225.1.1.93:30120
+#EXTINF:-1 tvg-id="redbyhbohd" group-title="Kênh quốc tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_red-by-hbo_146590145963.png",RED by HBO HD
+udp://@225.1.1.93:30120
+#EXTINF:-1 tvg-id="Travel & Living (TLC)" group-title="Kênh quốc tế" tvg-logo="http://i.imgur.com/TInMfsC.png",TLC
 udp://@225.1.1.236:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)",WBTV (HD 8Mbps)
+#EXTINF:-1 tvg-id="Travel & Living (TLC)" group-title="Kênh quốc tế" tvg-logo="http://i.imgur.com/TInMfsC.png",TLC
+udp://@225.1.1.236:30120
+#EXTINF:-1 tvg-id="TV5 MONDE" group-title="Kênh quốc tế" tvg-logo="http://i.imgur.com/FE0h0Cq.png",TV5Monde Asia
+udp://@225.1.1.200:30120
+#EXTINF:-1 tvg-id="WARNER TV" group-title="Kênh quốc tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_warner-tv_146581284899.png",Warner Bros TV HD
 udp://@225.1.1.139:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)",[V] HD (HD 4Mbps)
-udp://@225.1.4.30:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)",Da Vinci (HD 4Mbps)
-udp://@225.1.4.38:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)",FOX life (HD 8Mbps)
-udp://@225.1.4.32:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)",NATIONAL GEOGRAPHIC HD (HD 8Mbps)
-udp://@225.1.4.31:30120
+#EXTINF:-1 tvg-id="WARNER TV" group-title="Kênh quốc tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_warner-tv_146581284899.png",Warner Bros TV HD
+udp://@225.1.1.140:30120
+
+#EXTINF:-1 tvg-id="Blue Ant Entertainment" group-title="Kênh quốc tế" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a0/BLUE-ANT-ENTERTAINMENT-LOGO-BLK_CMYK.jpg",Blue Ant Entertainment
+udp://@225.1.1.203:30120
+#EXTINF:-1 tvg-id="Blue Ant Entertainment" group-title="Kênh quốc tế" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a0/BLUE-ANT-ENTERTAINMENT-LOGO-BLK_CMYK.jpg",Blue Ant Entertainment
+udp://@225.1.1.203:30120
+
+#EXTINF:-1 tvg-id="Blue Ant Extreme" group-title="Kênh quốc tế" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7d/BAM-Extreme-LOGO-B_CMYK.jpg",Blue Ant Extreme
+udp://@225.1.1.204:30120
+#EXTINF:-1 tvg-id="Blue Ant Extreme" group-title="Kênh quốc tế" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7d/BAM-Extreme-LOGO-B_CMYK.jpg",Blue Ant Extreme
+udp://@225.1.1.204:30120
+
