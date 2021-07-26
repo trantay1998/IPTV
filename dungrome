@@ -275,6 +275,55 @@ udp://@225.1.1.61:30120
 #EXTINF:-1 group-title="Địa phương (HD)",CTV HD _ TH Cà Mau (HD 8Mbps)
 udp://@225.1.1.104:30120
 #EXTINF:-1 group-title="Địa phương (HD)",THTPCT HD _ TH TP. Cần Thơ (HD 8Mbps)
+#-------------------Địa phương SD-------------------#
+#EXTINF:-1 group-title="Địa phương (SD)",YTV _ TH Yên Bái
+udp://@225.1.1.39:30120
+#EXTINF:-1 group-title="Địa phương (SD)",LTV _ TH Lai Châu
+udp://@225.1.2.36:30120
+#EXTINF:-1 group-title="Địa phương (SD)",STV _ TH Sơn La
+udp://@225.1.1.98:30120
+#EXTINF:-1 group-title="Địa phương (SD)",HGTV _ TH Hà Giang
+udp://@225.1.1.62:30120
+#EXTINF:-1 group-title="Địa phương (SD)",QTV3 _ TH Quảng Ninh
+udp://@225.1.2.180:30120
+#EXTINF:-1 group-title="Địa phương (SD)",THHN _ TH Hà Nam
+udp://@225.1.1.63:30120
+#EXTINF:-1 group-title="Địa phương (SD)",THD _ TH Hải Dương
+udp://@225.1.1.158:30120
+#EXTINF:-1 group-title="Địa phương (SD)",HY _ TH Hưng Yên
+udp://@225.1.1.118:30120
+#EXTINF:-1 group-title="Địa phương (SD)",NTV _ TH Nam Định
+udp://@225.1.1.120:30120
+#EXTINF:-1 group-title="Địa phương (SD)",TBTV _ TH Thái Bình
+udp://@225.1.1.99:30120
+#EXTINF:-1 group-title="Địa phương (SD)",VP _ TH Vĩnh Phúc
+udp://@225.1.2.99:30120
+#EXTINF:-1 group-title="Địa phương (SD)",TTV _ TH Thanh Hóa
+udp://@225.1.2.184:30120
+#EXTINF:-1 group-title="Địa phương (SD)",QBTV _ TH Quảng Bình
+udp://@225.1.2.164:30120
+#EXTINF:-1 group-title="Địa phương (SD)",TRT _ TH Thừa Thiên Huế
+udp://@225.1.1.161:30120
+#EXTINF:-1 group-title="Địa phương (SD)",NTV _ TH Ninh Thuận
+udp://@225.1.2.178:30120
+#EXTINF:-1 group-title="Địa phương (SD)",DRT _ TH Đắk Lắk
+udp://@225.1.1.64:30120
+#EXTINF:-1 group-title="Địa phương (SD)",BPTV1 _ TH Bình Phước
+udp://@225.1.2.23:30120
+#EXTINF:-1 group-title="Địa phương (SD)",BPTV2 _ TH Bình Phước
+udp://@225.1.2.38:30120
+#EXTINF:-1 group-title="Địa phương (SD)",BTV6 _ TH Bình Dương
+udp://@225.1.1.223:30120
+#EXTINF:-1 group-title="Địa phương (SD)",BTV10 NCM
+udp://@225.1.1.225:30120
+#EXTINF:-1 group-title="Địa phương (SD)",LA34 _ TH Long An
+udp://@225.1.1.162:30120
+#EXTINF:-1 group-title="Địa phương (SD)",THĐT1 _ TH Đồng Tháp
+udp://@225.1.1.163:30120
+#EXTINF:-1 group-title="Địa phương (SD)",ATV _ TH An Giang
+udp://@225.1.2.173:30120
+#EXTINF:-1 group-title="Địa phương (SD)",THBT _ TH Bến Tre
+udp://@225.1.1.156:30120
 #-------------------Quốc tế HD-------------------#
 #EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="http://i.imgur.com/ooy2lyY.png",Animal Planet
 udp://@225.1.1.231:30120
@@ -284,7 +333,7 @@ udp://@225.1.1.135:30120
 udp://@225.1.1.198:30120
 #EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="http://vthanh.live/ic/228.png", AXN HD
 udp://@225.1.2.225:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="data:image/png;base64,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", BabyTV HD
+#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="tvg-logo="https://yt3.ggpht.com/-w1gbvReuRqM/AAAAAAAAAAI/AAAAAAAAAAA/ve40E-bIMjs/s900-c-k-no-mo-rj-c0xffffff/photo.jpg",Baby TV HD", BabyTV HD
 udp://@225.1.2.146:30120
 #EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="http://vthanh.live/ic/207.png", BBC Cbeebies
 udp://@225.1.1.134:30120
@@ -302,7 +351,7 @@ udp://@225.1.2.231:30120
 udp://@225.1.1.188:30120
 #EXTINF:-1 group-title="Quốc Tế (HD)"tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_cinemaworld_146580871725.png",Cinema World HD
 udp://@225.1.1.142:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="data:image/png;base64,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",CINEMAX
+#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/Cinemax_LA_logo.png",CINEMAX
 udp://@225.1.2.86:30120
 #EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="http://vthanh.live/ic/204.png", Da Vinci HD
 udp://@225.1.1.197:30120
@@ -314,7 +363,7 @@ udp://@225.1.1.238:30120
 udp://@225.1.2.158:30120
 #EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="http://i.imgur.com/pGJmJmJ.png",Disney Junior
 udp://@225.1.1.233:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn9C4BxffzcRoe68ZuD3nUNAQFr3E8Lcokhw&usqp=CAU",Dreamworks
+#EXTINF:-1 group-title="Quốc Tế (HD)"tvg-logo="https://upload.wikimedia.org/wikipedia/vi/b/bb/DreamWorks_Animation_SKG_logo.svg.png",Dreamworks
 udp://@225.1.1.136:30120
 #EXTINF:-1 group-title="Quốc Tế (HD)"tvg-logo="http://vthanh.live/ic/215.png", DW
 udp://@225.1.1.46:30120
@@ -332,31 +381,51 @@ udp://@225.1.2.239:30120
 udp://@225.1.2.229:30120
 #EXTINF:-1 group-title="Quốc Tế (HD)"tvg-logo="http://i.imgur.com/TPL8d6Y.png",Fox Sports 2 HD
 udp://@225.1.1.141:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)"tvg-logo="http://www.fifa55u.com/images/icon/FOXSports3.png",Fox Sports 3 HD
+#EXTINF:-1 group-title="Quốc Tế (HD)"tvg-logo="tvg-logo="http://www.fifa55u.com/images/icon/FOXSports3.png",Fox Sports 3 HD
 udp://@225.1.2.242:30120
 #EXTINF:-1 group-title="Quốc Tế (HD)"tvg-logo="https://i.imgur.com/hzqtuLB.jpg" ,FX
 udp://@225.1.1.213:30120
 #EXTINF:-1 group-title="Quốc Tế (HD)"tvg-logo="http://i.imgur.com/wEqQSrc.png",HBO HD
 udp://@225.1.2.233:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)",KIX (HD 8Mbps)
+#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="http://htvc.vn/uploads/channel/2017/02/06/9740642-logo-max-by-hbo.png",MAX by HBO HD
+udp://@225.1.2.86:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)"tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/729_300.png",KIX HD
 udp://@225.1.2.144:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)",NATIONAL GEOGRAPHIC HD (HD 8Mbps)
+#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="http://i.imgur.com/z3SVeHB.png",National Geographic HD
 udp://@225.1.2.235:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)",NAT GEO WILD (HD 8Mbps)
+#EXTINF:-1 group-title="Quốc Tế (HD)",tvg-logo="https://i.imgur.com/UT2Fh4x.jpg" ,Nat Geo Wild HD
 udp://@225.1.1.211:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)",NHK WORLD JAPAN (HD 8Mbps)
+#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/1200px-NHK_World.svg.png,NHK WORLD JAPAN
 udp://@225.1.1.47:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)",Outdoor Channel (HD 8Mbps)
+#EXTINF:-1 group-title="Quốc Tế (HD)"tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_outdoor-channel_149759145138.png",Outdoor Channel HD
 udp://@225.1.2.215:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)",TLC (HD 8Mbps)
+#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="http://i.imgur.com/TInMfsC.png",TLC
 udp://@225.1.1.236:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)",WBTV (HD 8Mbps)
+#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="https://e7.pngegg.com/pngimages/748/561/png-clipart-warner-tv-television-channel-warner-bros-world-abu-dhabi-television-show-serie-tv-television-emblem.png,WBTV HD
 udp://@225.1.1.139:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)",[V] HD (HD 4Mbps)
-udp://@225.1.4.30:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)",Da Vinci (HD 4Mbps)
-udp://@225.1.4.38:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)",FOX life (HD 8Mbps)
+#EXTINF:-1 group-title="Quốc Tế (HD)"tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_fox-life_152238683897.png",Fox Life HD
 udp://@225.1.4.32:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)",NATIONAL GEOGRAPHIC HD (HD 8Mbps)
+#EXTINF:-1 group-title="Quốc Tế (HD)"tvg-logo="http://i.imgur.com/z3SVeHB.png",National Geographic HD
 udp://@225.1.4.31:30120
+#-------------------Quốc tế SD-------------------#
+#EXTINF:-1 group-title="Quốc Tế (SD)",Arirang
+udp://@225.1.1.201:30120
+#EXTINF:-1 group-title="Quốc Tế (SD)",ABC AUSTRALIA
+udp://@225.1.2.21:30120
+#EXTINF:-1 group-title="Quốc Tế (SD)",Baby First
+udp://@225.1.1.137:30120
+#EXTINF:-1 group-title="Quốc Tế (SD)",BBC Lifestyle
+udp://@225.1.2.52:30120
+#EXTINF:-1 group-title="Quốc Tế (SD)",BBC WORLD NEWS
+udp://@225.1.2.74:30120
+#EXTINF:-1 group-title="Quốc Tế (SD)",CNA
+udp://@225.1.1.202:30120
+#EXTINF:-1 group-title="Quốc Tế (SD)",CNBC
+udp://@225.1.1.227:30120
+#EXTINF:-1 group-title="Quốc Tế (SD)",CNN
+udp://@225.1.1.242:30120
+#EXTINF:-1 group-title="Quốc Tế (SD)",FRANCE 24 (English)
+udp://@225.1.2.211:30120
+#EXTINF:-1 group-title="Quốc Tế (SD)",KBS WORLD
+udp://@225.1.1.196:30120
+#EXTINF:-1 group-title="Quốc Tế (SD)",TV5 MONDE ASIE
