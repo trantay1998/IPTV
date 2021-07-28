@@ -409,23 +409,21 @@ udp://@225.1.4.32:30120
 #EXTINF:-1 group-title="Quốc Tế (HD)"tvg-logo="http://i.imgur.com/z3SVeHB.png",National Geographic HD
 udp://@225.1.4.31:30120
 #-------------------Quốc tế SD-------------------#
-#EXTINF:-1 group-title="Quốc Tế (SD)",Arirang
+#EXTINF:-1 group-title="Quốc Tế (SD)"tvg-logo="http://i.imgur.com/HibfTmZ.png",Arirang
 udp://@225.1.1.201:30120
-#EXTINF:-1 group-title="Quốc Tế (SD)",ABC AUSTRALIA
+#EXTINF:-1 group-title="Quốc Tế (SD)"tvg-logo="http://i.imgur.com/MtCA5jr.png",ABC Australia
 udp://@225.1.2.21:30120
-#EXTINF:-1 group-title="Quốc Tế (SD)",Baby First
-udp://@225.1.1.137:30120
-#EXTINF:-1 group-title="Quốc Tế (SD)",BBC Lifestyle
+#EXTINF:-1 group-title="Quốc Tế (SD)" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_bbc-lifestyle_148379742953.jpg",BBC Lifestyle
 udp://@225.1.2.52:30120
-#EXTINF:-1 group-title="Quốc Tế (SD)",BBC WORLD NEWS
+#EXTINF:-1 group-title="Quốc Tế (SD)"tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_bbc-news_148379779959.jpg",BBC World News
 udp://@225.1.2.74:30120
-#EXTINF:-1 group-title="Quốc Tế (SD)",CNA
+#EXTINF:-1 group-title="Quốc Tế (SD)"tvg-logo="http://i.imgur.com/DhcvpCm.png",Channel News Asia
 udp://@225.1.1.202:30120
-#EXTINF:-1 group-title="Quốc Tế (SD)",CNBC
+#EXTINF:-1 group-title="Quốc Tế (SD)"tvg-logo="http://i.imgur.com/dSArT2c.png",CNBC
 udp://@225.1.1.227:30120
-#EXTINF:-1 group-title="Quốc Tế (SD)",CNN
+#EXTINF:-1 group-title="Quốc Tế (SD)"tvg-logo="http://i.imgur.com/qTmK57R.png",CNN
 udp://@225.1.1.242:30120
-#EXTINF:-1 group-title="Quốc Tế (SD)",FRANCE 24 (English)
+#EXTINF:-1 group-title="Quốc Tế (SD)"tvg-logo="http://i.imgur.com/nsH5R8I.png",France 24
 udp://@225.1.2.211:30120
 #EXTINF:-1 group-title="Quốc Tế (SD)",KBS WORLD
 udp://@225.1.1.196:30120
