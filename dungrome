@@ -252,29 +252,30 @@ udp://@225.1.1.149:30120
 udp://@225.1.2.22:30120
 #EXTINF:-1 tvg-id="binhduong4" group-title="Địa phương (HD)" tvg-logo="http://vthanh.live/ic/119.png", Bình Dương 4 HD
 udp://@225.1.1.30:30120
-#EXTINF:-1 group-title="Địa phương (HD)",BTV9 An Viên HD (HD 8Mbps)
+#EXTINF:-1 group-title="Địa phương (HD)"tvg-logo="http://vthanh.live/ic/99.png", BTV9 - An Viên TV
 udp://@225.1.2.189:30120
-#EXTINF:-1 group-title="Địa phương (HD)",ĐNRTV1 HD _ TH Đồng Nai (HD 8Mbps)
+#EXTINF:-1 group-title="Địa phương (HD)"tvg-logo="http://vthanh.live/ic/133.png", Đồng Nai 1 HD
 udp://@225.1.1.152:30120
-#EXTINF:-1 group-title="Địa phương (HD)",ĐNRTV2 HD _ TH Đồng Nai (HD 8Mbps)
+#EXTINF:-1 group-title="Địa phương (HD)"tvg-logo="http://vthanh.live/ic/134.png", Đồng Nai 2 HD
 udp://@225.1.1.151:30120
-#EXTINF:-1 group-title="Địa phương (HD)",TTV11 _ TH Tây Ninh (HD 8Mbps)
+#EXTINF:-1 group-title="Địa phương (HD)" tvg-logo="http://vthanh.live/ic/174.png", Tây Ninh HD
 udp://@225.1.1.130:30120
-#EXTINF:-1 group-title="Địa phương (HD)",BRT HD _ TH Bà Rịa Vũng Tàu (HD 8Mbps)
+#EXTINF:-1 group-title="Địa phương (HD)"tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_ba-ria-vung-tau_156455527078.jpg",Bà Rịa Vũng Tàu
 udp://@225.1.2.175:30120
-#EXTINF:-1 group-title="Địa phương (HD)",THTG HD _ TH Tiền Giang (HD 8Mbps)
+#EXTINF:-1 group-title="Địa phương (HD)"tvg-logo="http://vthanh.live/ic/180.png", Tiền Giang HD
 udp://@225.1.2.170:30120
-#EXTINF:-1 group-title="Địa phương (HD)",THTV HD _ TH Trà Vinh (HD 8Mbps)
+#EXTINF:-1 group-title="Địa phương (HD)"tvg-logo="http://vthanh.live/ic/181.png", Trà Vinh HD
 udp://@225.1.2.172:30120
-#EXTINF:-1 group-title="Địa phương (HD)",HGTV _ TH Hậu Giang (HD 8Mbps)
+#EXTINF:-1 group-title="Địa phương (HD)"tvg-logo="http://vthanh.live/ic/147.png", Hậu Giang HD
 udp://@225.1.1.157:30120
-#EXTINF:-1 group-title="Địa phương (HD)",KG1 _ TH Kiên Giang (HD 8Mbps)
+#EXTINF:-1 group-title="Địa phương (HD)"tvg-logo="http://vthanh.live/ic/152.png", Kiên Giang 1 HD
 udp://@225.1.2.182:30120
-#EXTINF:-1 group-title="Địa phương (HD)",BLTV HD _ TH Bạc Liêu (HD 8Mbps)
+#EXTINF:-1 group-title="Địa phương (HD)" tvg-logo="http://vthanh.live/ic/113.png", Bạc Liêu HD
 udp://@225.1.1.61:30120
-#EXTINF:-1 group-title="Địa phương (HD)",CTV HD _ TH Cà Mau (HD 8Mbps)
+#EXTINF:-1 group-title="Địa phương (HD)"tvg-logo="http://vthanh.live/ic/125.png", Cà Mau HD
 udp://@225.1.1.104:30120
-#EXTINF:-1 group-title="Địa phương (HD)",THTPCT HD _ TH TP. Cần Thơ (HD 8Mbps)
+#EXTINF:-1 group-title="Địa phương (HD)"tvg-logo="http://vthanh.live/ic/126.png", Cần Thơ HD
+udp://@225.1.1.132:30120
 #-------------------Địa phương SD-------------------#
 #EXTINF:-1 group-title="Địa phương (SD)",YTV _ TH Yên Bái
 udp://@225.1.1.39:30120
