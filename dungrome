@@ -382,7 +382,7 @@ udp://@225.1.2.239:30120
 udp://@225.1.2.229:30120
 #EXTINF:-1 group-title="Quốc Tế (HD)"tvg-logo="http://i.imgur.com/TPL8d6Y.png",Fox Sports 2 HD
 udp://@225.1.1.141:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)"tvg-logo="tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/2560px-Fox_sports_3_logo.svg.png",Fox Sports 3 HD
+#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="https://img.hplus.com.vn/728x409/banner/2019/07/16/894184-foxsport_3.png",FOX Sport 3
 udp://@225.1.2.242:30120
 #EXTINF:-1 group-title="Quốc Tế (HD)"tvg-logo="https://i.imgur.com/hzqtuLB.jpg" ,FX
 udp://@225.1.1.213:30120
@@ -396,13 +396,13 @@ udp://@225.1.2.144:30120
 udp://@225.1.2.235:30120
 #EXTINF:-1 group-title="Quốc Tế (HD)",tvg-logo="https://i.imgur.com/UT2Fh4x.jpg" ,Nat Geo Wild HD
 udp://@225.1.1.211:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/1200px-NHK_World.svg".png,NHK WORLD JAPAN
+#EXTINF:-1 group-title="Quốc Tế (HD)" ttps://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/1200px-NHK_World.svg.png",NHK World
 udp://@225.1.1.47:30120
 #EXTINF:-1 group-title="Quốc Tế (HD)"tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_outdoor-channel_149759145138.png",Outdoor Channel HD
 udp://@225.1.2.215:30120
 #EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="http://i.imgur.com/TInMfsC.png",TLC
 udp://@225.1.1.236:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="https://e7.pngegg.com/pngimages/748/561/png-clipart-warner-tv-television-channel-warner-bros-world-abu-dhabi-television-show-serie-tv-television-emblem.png,WBTV HD
+#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Warner_Bros_logo.svg/737px-Warner_Bros_logo.svg.png",WBTV HD
 udp://@225.1.1.139:30120
 #EXTINF:-1 group-title="Quốc Tế (HD)"tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_fox-life_152238683897.png",Fox Life HD
 udp://@225.1.4.32:30120
@@ -425,7 +425,7 @@ udp://@225.1.1.227:30120
 udp://@225.1.1.242:30120
 #EXTINF:-1 group-title="Quốc Tế (SD)"tvg-logo="http://i.imgur.com/nsH5R8I.png",France 24
 udp://@225.1.2.211:30120
-#EXTINF:-1 group-title="Quốc Tế (SD)",KBS WORLD
+#EXTINF:-1 group-title="Quốc Tế (SD)"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/1280px-KBS_World_%282009%29.svg.png",KBS World
 udp://@225.1.1.196:30120
-#EXTINF:-1 group-title="Quốc Tế (SD)",TV5 MONDE ASIE
+#EXTINF:-1 group-title="Quốc Tế (SD)"tvg-logo="https://seeklogo.com/images/T/tv5-logo-D6C5E4DA52-seeklogo.com.png",TV5 Monde Asie
 udp://@225.1.1.200:30120
