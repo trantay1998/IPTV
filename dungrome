@@ -277,53 +277,15 @@ udp://@225.1.1.104:30120
 #EXTINF:-1 group-title="Địa phương (HD)"tvg-logo="http://vthanh.live/ic/126.png", Cần Thơ HD
 udp://@225.1.1.132:30120
 #-------------------Địa phương SD-------------------#
-#EXTINF:-1 group-title="Địa phương (SD)",YTV _ TH Yên Bái
-udp://@225.1.1.39:30120
-#EXTINF:-1 group-title="Địa phương (SD)",LTV _ TH Lai Châu
-udp://@225.1.2.36:30120
-#EXTINF:-1 group-title="Địa phương (SD)",STV _ TH Sơn La
-udp://@225.1.1.98:30120
-#EXTINF:-1 group-title="Địa phương (SD)",HGTV _ TH Hà Giang
-udp://@225.1.1.62:30120
-#EXTINF:-1 group-title="Địa phương (SD)",QTV3 _ TH Quảng Ninh
-udp://@225.1.2.180:30120
-#EXTINF:-1 group-title="Địa phương (SD)",THHN _ TH Hà Nam
-udp://@225.1.1.63:30120
-#EXTINF:-1 group-title="Địa phương (SD)",THD _ TH Hải Dương
-udp://@225.1.1.158:30120
-#EXTINF:-1 group-title="Địa phương (SD)",HY _ TH Hưng Yên
-udp://@225.1.1.118:30120
-#EXTINF:-1 group-title="Địa phương (SD)",NTV _ TH Nam Định
-udp://@225.1.1.120:30120
-#EXTINF:-1 group-title="Địa phương (SD)",TBTV _ TH Thái Bình
-udp://@225.1.1.99:30120
-#EXTINF:-1 group-title="Địa phương (SD)",VP _ TH Vĩnh Phúc
-udp://@225.1.2.99:30120
-#EXTINF:-1 group-title="Địa phương (SD)",TTV _ TH Thanh Hóa
-udp://@225.1.2.184:30120
-#EXTINF:-1 group-title="Địa phương (SD)",QBTV _ TH Quảng Bình
-udp://@225.1.2.164:30120
-#EXTINF:-1 group-title="Địa phương (SD)",TRT _ TH Thừa Thiên Huế
-udp://@225.1.1.161:30120
-#EXTINF:-1 group-title="Địa phương (SD)",NTV _ TH Ninh Thuận
-udp://@225.1.2.178:30120
-#EXTINF:-1 group-title="Địa phương (SD)",DRT _ TH Đắk Lắk
-udp://@225.1.1.64:30120
-#EXTINF:-1 group-title="Địa phương (SD)",BPTV1 _ TH Bình Phước
-udp://@225.1.2.23:30120
-#EXTINF:-1 group-title="Địa phương (SD)",BPTV2 _ TH Bình Phước
-udp://@225.1.2.38:30120
-#EXTINF:-1 group-title="Địa phương (SD)",BTV6 _ TH Bình Dương
-udp://@225.1.1.223:30120
 #EXTINF:-1 group-title="Địa phương (SD)",BTV10 NCM
 udp://@225.1.1.225:30120
-#EXTINF:-1 group-title="Địa phương (SD)",LA34 _ TH Long An
+#EXTINF:-1 group-title="Địa phương (SD)"tvg-logo="http://vthanh.live/ic/158.png", Long An HD
 udp://@225.1.1.162:30120
-#EXTINF:-1 group-title="Địa phương (SD)",THĐT1 _ TH Đồng Tháp
+#EXTINF:-1 group-title="Địa phương (SD)"tvg-logo="http://vthanh.live/ic/136.png", Đồng Tháp 1 HD
 udp://@225.1.1.163:30120
-#EXTINF:-1 group-title="Địa phương (SD)",ATV _ TH An Giang
+#EXTINF:-1 group-title="Địa phương (SD)"tvg-logo="http://vthanh.live/ic/108.png", An Giang HD
 udp://@225.1.2.173:30120
-#EXTINF:-1 group-title="Địa phương (SD)",THBT _ TH Bến Tre
+#EXTINF:-1 group-title="Địa phương (SD)"tvg-logo="http://vthanh.live/ic/114.png", Bến Tre
 udp://@225.1.1.156:30120
 #-------------------Quốc tế HD-------------------#
 #EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="http://i.imgur.com/ooy2lyY.png",Animal Planet
@@ -334,7 +296,7 @@ udp://@225.1.1.135:30120
 udp://@225.1.1.198:30120
 #EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="http://vthanh.live/ic/228.png", AXN HD
 udp://@225.1.2.225:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="tvg-logo="https://www.pngkit.com/png/full/319-3196136_baby-tv-enters-us-market-baby-tv-hd.png",BabyTV HD
+#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="tvg-logo="https://image.pngaaa.com/157/3644157-middle.png",BabyTV HD
 udp://@225.1.2.146:30120
 #EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="http://vthanh.live/ic/207.png", BBC Cbeebies
 udp://@225.1.1.134:30120
@@ -396,7 +358,7 @@ udp://@225.1.2.144:30120
 udp://@225.1.2.235:30120
 #EXTINF:-1 group-title="Quốc Tế (HD)",tvg-logo="https://i.imgur.com/UT2Fh4x.jpg" ,Nat Geo Wild HD
 udp://@225.1.1.211:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)" ttps://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/1200px-NHK_World.svg.png",NHK World
+#EXTINF:-1 group-title="Quốc Tế (HD)"  tvg-logo="http://vthanh.live/ic/218.png", NHK World
 udp://@225.1.1.47:30120
 #EXTINF:-1 group-title="Quốc Tế (HD)"tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_outdoor-channel_149759145138.png",Outdoor Channel HD
 udp://@225.1.2.215:30120
