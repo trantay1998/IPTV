@@ -103,8 +103,7 @@ udp://@225.1.1.174:30120
 #EXTINF:-1 group-title="HTV/HTVC"tvg-logo="http://vthanh.live/ic/64.png", HTVC Plus HD
 udp://@225.1.1.181:30120
 #-------------------SCTV-------------------#
-#EXTINF:-1 tvg-id="sctv2hd" group-title="SCTV" tvg-logo="http://vthanh.live/ic/68.png", SCTV2
-udp://@225.1.1.234:30120
+
 #-------------------Thiết yếu-------------------#
 #EXTINF:-1 group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/lvYjN2D.jpg",ANTV HD (HD 8Mbps)
 udp://@225.1.2.169:30120
